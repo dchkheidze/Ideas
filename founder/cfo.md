@@ -1,3 +1,5 @@
+> **Update after /founder-ops (17 Nov 2026):** Lovable is now priced from its published plans: 200 credits at 50 USD ≈ 135 GEL a month during the build. Supabase is confirmed at 25 USD. New results: break-even **115** paying restaurants (lean plan: **43**); year 1 **−11,218 GEL** (lean: **+15,782 GEL**); cash needed **~22,600 GEL** (lean: **~11,500 GEL**). The tables below are from the earlier run; re-run the tool for the full current tables.
+
 # CFO's note: HoReCa Hub (all amounts in GEL; the tool prints "$")
 
 The table below counts **paying restaurants per month**, not per day; the tool's "a day" means "that month". Most inputs are **estimates** (see `cfo-sources.md`), because there are no quotes yet. This isn't financial, tax or legal advice: have an accountant check the company structure, VAT on the subscription and tax before money moves.
