@@ -1,0 +1,28 @@
+{
+  "business": "HoReCa Hub (Guest Loop subscription, Tbilisi). NOTE: the tool says 'per day'; here days_per_month = 1, so every 'per day' figure means 'paying restaurants in that month'.",
+  "unit": "paying restaurant-month",
+  "price": 37,
+  "variable": [
+    {"label": "Hosting/database share per restaurant (estimate)", "cost": 2.0},
+    {"label": "SMS and email to guests (estimate)", "cost": 3.0},
+    {"label": "Card fee on collecting the subscription, ~2% of 37 GEL (estimate)", "cost": 0.75}
+  ],
+  "fixed_monthly": [
+    {"label": "Lovable subscription (estimate, ~25 USD)", "cost": 70},
+    {"label": "Supabase / backend hosting base plan (estimate, ~25 USD)", "cost": 70},
+    {"label": "Domain, email, SMS gateway base fee (estimate)", "cost": 60},
+    {"label": "Accountant, part-time (estimate)", "cost": 300},
+    {"label": "Marketing: Instagram/Facebook ads + owner events (suggested budget)", "cost": 1500},
+    {"label": "Part-time sales/onboarding helper, commission-heavy (suggested)", "cost": 1500},
+    {"label": "Founder salary (none in year 1, per founder)", "cost": 0}
+  ],
+  "startup": [
+    {"label": "Company registration, contracts, privacy policy (estimate)", "cost": 1500},
+    {"label": "Lovable/Supabase during 3 build months (estimate)", "cost": 450},
+    {"label": "QR table stands for 30 founding restaurants, ~15 tables x 6 GEL (estimate)", "cost": 2700},
+    {"label": "Launch marketing: content, owner launch event, first ads (suggested)", "cost": 2500}
+  ],
+  "days_per_month": 1,
+  "plan_per_day": 150,
+  "ramp_per_day": [0, 0, 0, 30, 60, 100, 115, 125, 135, 145, 150, 150]
+}
