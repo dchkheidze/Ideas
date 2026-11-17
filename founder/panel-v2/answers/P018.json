@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "The free months are nice, but the real cost is the Keepz fee on every bill, and you don't tell me that number, you only promise it later. My terminal fee I already know. And half my summer guests are tourists who never come back, so loyalty rewards and messaging regulars are worth less to me than the Google and Tripadvisor reviews.",
+  "objection": "I don't know the per-transaction fee or how many days until the money is in my account. If it's higher than my terminal or the payout is slow, I lose money on every QR bill, and 29 lari a month on top of that has to earn itself back every month.",
+  "would_change_my_mind": "The Keepz fee and payout time printed right in the offer, equal to or lower than my bank terminal, with next-day payout.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 29,
+  "price_too_expensive": 45
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "price",
+  "reason": "Three months free, they set it up and nothing changes in my POS, so I'll try the founding offer. The job boards don't matter to me since I hire on jobs.ge and Instagram, but private dish ratings and seeing who my regulars are is something I don't have now.",
+  "objection": "The Keepz fee. I check my card totals every night, and if the per-transaction fee is higher than my terminal or the payout comes later, QR costs me money on every bill. After the free months, 29 GEL is only worth it if guests actually use QR and the Google reviews actually come in.",
+  "would_change_my_mind": "If the written Keepz fee comes in above my current terminal rate or the payout takes longer than next day, I won't sign.",
+  "price_too_cheap": 5,
+  "price_cheap": 19,
+  "price_expensive": 49,
+  "price_too_expensive": 79
+}

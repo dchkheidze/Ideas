@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Three months free, setup done for me and the POS untouched, so it costs me almost nothing to try. My regulars come several times a week and I'd like to see who they are and nudge the happy tourists towards Tripadvisor.",
+  "objection": "My waiters will push back if they think QR tips mean less money or less control over the bill. If they quietly steer guests to the terminal, the whole thing dies and I've wasted a training session.",
+  "would_change_my_mind": "If the Keepz fee in writing comes out worse than my card terminal, or my senior waiters refuse after the 30-minute training, I'd cancel before the free months end.",
+  "price_too_cheap": 10,
+  "price_cheap": 29,
+  "price_expensive": 79,
+  "price_too_expensive": 150
+}

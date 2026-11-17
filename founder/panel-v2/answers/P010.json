@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I already pay for Wox and a card terminal, and my waiters know how they work. Three free months is nice, but the real cost is my staff and manager running two systems in the busy tourist season, and I don't sign up to be somebody's case study for an app nobody in Tbilisi uses yet.",
+  "objection": "It's a second system next to my POS. When the QR bill and the Wox bill don't match on a full Saturday, who sorts it out, me or Keepz? And will tourists even scan it, or just hand over a card like they do now?",
+  "would_change_my_mind": "See it working in a restaurant like mine on a busy weekend, with the Keepz fee in writing lower than my terminal fee, and the bills closing in Wox without my manager entering anything twice.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

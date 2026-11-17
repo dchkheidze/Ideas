@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I'd maybe sit down with them about the free QR payment, but I won't sign up for anything until I see the Keepz fee and payout time next to my bank terminal's. The loyalty and reviews part is nice, but my regulars already know me by name, and I don't sign up for a subscription now just because it's free for three months.",
+  "objection": "They don't say the fee per transaction or when the money lands, which is the only thing I care about. If the money comes later than with my terminal or the fee is higher, the 29 lari is the smallest cost.",
+  "would_change_my_mind": "A written fee lower than my terminal's with next-day payout, shown to me before I sign, and proof the 39 lari brings back guests worth more than that in one month.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 35,
+  "price_too_expensive": 50
+}

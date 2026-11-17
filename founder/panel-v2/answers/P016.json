@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "I'm two waiters down and barely keeping the floor running. Another system for the staff I have left, and another login for me, is the last thing I need this month, even if the first three months are free. Hiring boards don't help either, I already use jobs.ge and Instagram for that.",
+  "objection": "We already have Wox and a QR menu. Now there'd be a second QR on the table for paying, and I'd have to compare Keepz fees against my bank terminal. If guests get confused or a payment goes missing, it's my short-handed staff who deal with it.",
+  "would_change_my_mind": "Seeing it run smoothly in a restaurant like mine, so that QR payment actually saves my waiters walking back and forth with the terminal, with fees in writing that are no higher than my bank's.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

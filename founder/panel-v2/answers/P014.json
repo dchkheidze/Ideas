@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "I am two waiters short and my problem this month is hiring, not loyalty rewards or dish ratings. I might take the free listing and staff board, but I won't put my thin team through new payment training for a 39-lari plan I can't prove pays back.",
+  "objection": "I already hire through jobs.ge and Instagram, and I don't know if the Keepz fee beats my card terminal or if guests here will actually scan a QR instead of handing over a card.",
+  "would_change_my_mind": "Seeing the written Keepz fee lower than my terminal, plus the staff board actually bringing me a waiter, would make me try the free months and maybe keep the 29-lari plan.",
+  "price_too_cheap": 5,
+  "price_cheap": 19,
+  "price_expensive": 39,
+  "price_too_expensive": 60
+}

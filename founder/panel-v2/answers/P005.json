@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I might take the free QR payments if the fee beats my terminal, but I won't sign up for the paid plan. I already know my regulars by name, I don't need software to tell me who comes back, and 29 or 39 lari a month for messages and ratings won't bring back its cost in a month.",
+  "objection": "Will my guests really pay by QR instead of handing over a card or cash? Most of my customers pay at the counter for a coffee and a pastry. If they don't use QR, the whole Guest Loop has nobody in it, and I've given my time to a case study for nothing.",
+  "would_change_my_mind": "Seeing the fee in writing lower than my card terminal, plus another small café near me showing that QR payments and the loyalty reward actually brought in more repeat sales than the monthly price.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 30,
+  "price_too_expensive": 50
+}

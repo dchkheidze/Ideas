@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "My whole business lives on Google and Tripadvisor stars, and if bad dish ratings come to me privately while happy tourists get nudged to review me publicly, that is exactly what I want. Three months free and 29 GEL after is nothing next to one extra good review a week, so I would sign up as a founding restaurant and try it.",
+  "objection": "I don't fully trust that 'privately first' stays private - if the app ever shows dish ratings in the diner listing or the case study exposes my bad numbers, one bad dish is public forever. And I'm not sure foreign guests will scan a QR instead of just handing over their card.",
+  "would_change_my_mind": "If the contract did not say in writing that no rating goes public without my approval, I would walk away.",
+  "price_too_cheap": 5,
+  "price_cheap": 25,
+  "price_expensive": 79,
+  "price_too_expensive": 150
+}

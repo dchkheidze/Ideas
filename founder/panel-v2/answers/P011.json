@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "price",
+  "reason": "Three months free with no POS change and one setup visit costs me nothing to try, and my tourist guests in Sololaki already pay with Apple Pay all the time. I'd sign up for the founding spot, but I'll cancel the 29 GEL the day the reviews and repeat guests don't show up in my numbers.",
+  "objection": "My Georgian regulars like handing over cash or a card to the waiter, so I doubt one in five bills goes through QR. And if the Keepz fee comes out higher than my bank terminal, the loyalty extras don't make up for it.",
+  "would_change_my_mind": "If the written Keepz fee is higher than my current terminal rate, or the payout takes longer than a day or two, I walk away.",
+  "price_too_cheap": 5,
+  "price_cheap": 20,
+  "price_expensive": 49,
+  "price_too_expensive": 79
+}

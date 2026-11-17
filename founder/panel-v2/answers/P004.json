@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "Private ratings first does take care of my fear about one bad dish being public forever, and the price is small. But if QR payments do not close the bill in my POS, my waiters are matching two systems every night, and in a wine bar like mine I would rather have them pour wine and talk to guests.",
+  "objection": "'Nothing changes in your POS' to me means it is not connected to my POS. Who reconciles the QR payments against the open tables at closing, and what happens when a table splits the bill half on QR and half on the terminal?",
+  "would_change_my_mind": "A real integration with my POS, so a QR payment closes the table automatically, plus a written Keepz fee that is lower than my card terminal's.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 70,
+  "price_too_expensive": 120
+}

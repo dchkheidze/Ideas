@@ -1,0 +1,89 @@
+{
+ "n": 100,
+ "seed": 149257,
+ "customer": {
+  "business": "HoReCa Hub: QR pay-at-table with verified dish reviews, guest profiles and loyalty, plus free HoReCa-only listings (suppliers, jobs, premises)",
+  "target": "Owners or managing partners of independent (non-chain) restaurants, cafés and wine bars in Tbilisi who decide what software the venue pays for",
+  "where": "Tbilisi, Georgia",
+  "age": [
+   26,
+   60
+  ],
+  "segments": [
+   {
+    "name": "Small café or bakery-café owner (under 40 seats, often works the floor)",
+    "share": 0.4,
+    "income": [
+     8000,
+     22000
+    ]
+   },
+   {
+    "name": "Mid-size Georgian or casual restaurant owner (40-120 seats, has a manager)",
+    "share": 0.4,
+    "income": [
+     20000,
+     55000
+    ]
+   },
+   {
+    "name": "Upscale or tourist-centre restaurant / wine bar owner (Old Tbilisi, Vake, Sololaki)",
+    "share": 0.2,
+    "income": [
+     50000,
+     140000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Cash-careful",
+    "share": 0.2,
+    "how": "Counts every monthly lari; cancels any subscription that doesn't pay for itself in a month."
+   },
+   {
+    "name": "Already on a POS/menu system",
+    "share": 0.2,
+    "how": "Uses Wox, SQR or another POS and a QR menu; does not want a second system for staff to learn."
+   },
+   {
+    "name": "Instagram-first marketer",
+    "share": 0.15,
+    "how": "Runs bookings, events and promotions through Instagram, Facebook and WhatsApp; it works and it's free."
+   },
+   {
+    "name": "Tourist-dependent",
+    "share": 0.15,
+    "how": "Lives on Tripadvisor and Google ratings; foreign guests pay by card and leave reviews."
+   },
+   {
+    "name": "Regulars-and-relationships",
+    "share": 0.15,
+    "how": "Knows the regulars personally; thinks loyalty programs are for chains."
+   },
+   {
+    "name": "Early tech adopter",
+    "share": 0.15,
+    "how": "Tries new tools if the demo is good and the first months are free."
+   }
+  ],
+  "objections": [
+   "I already pay for Wox/SQR and a card terminal - why another system?",
+   "Will my guests really pay by QR instead of handing over a card or cash?",
+   "Who is the payment company, what is the fee per transaction and when do I get the money?",
+   "Verified reviews could hurt me - one bad dish rating is public forever",
+   "My waiters will resist anything that changes how the bill and tips work",
+   "Free listings are nice, but I already use jobs.ge and Instagram for hiring",
+   "A new startup - will it still exist in a year, and who owns my guest data?"
+  ],
+  "habits": [
+   "you check the day's cash and card totals yourself every night",
+   "you post the weekend's events on Instagram every Thursday",
+   "you lost two waiters last month and are still short-staffed",
+   "you phone your meat and vegetable suppliers every morning",
+   "half your guests on summer weekends are tourists",
+   "your regulars come three or four times a week"
+  ]
+ },
+ "pitch": "HoReCa Hub \"Founding Restaurants\" offer, for independent restaurants in Tbilisi. All prices are in Georgian lari (GEL) per month.\nFree for every restaurant: a listing in the HoReCa Hub diner app, HoReCa-only boards for suppliers, staff and premises, and QR payment at the table. Guests pay in the phone browser (card, Apple Pay, Google Pay or bank), with no app. Payments go through Keepz, which is licensed by the National Bank of Georgia. You get the exact per-transaction fee and payout time in writing before you sign, to compare with your card terminal. Waiters keep their terminal for anyone who prefers it.\nGuest Loop plan, 39 GEL a month: dish ratings from guests who paid come to you privately first, and you choose what goes public. Happy guests are invited to also review you on Google or Tripadvisor. You see each guest's visits (first time or regular), switch on a ready-made loyalty reward and message your own guests about offers and events. Guests can add a tip that goes straight to the waiter.\nYour guest list belongs to you: it is in the contract, and you can export it any time, even if you leave.\nWe set it up for you in one visit and train your staff in 30 minutes. Nothing changes in your POS.\nGuarantee: if fewer than 1 in 5 of your bills are paid by QR in your first paid month, that month is free.\nFounding Restaurants (first 30 restaurants, until 31 March 2027): 3 months free, then 29 GEL a month locked for 12 months, in exchange for sharing your results in a short case study."
+}

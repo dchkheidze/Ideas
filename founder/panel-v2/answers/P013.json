@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason": "The one thing I need to know, the fee per transaction and when the money lands, isn't on the page, just a promise to show me later. Half my summer guests are tourists who won't come back, and I already message regulars for free on Instagram and WhatsApp, so the loyalty side isn't worth paying for until I see the payment terms.",
+  "reason_code": "trust",
+  "objection": "If the Keepz fee is higher than my terminal or payouts take days, the QR payments cost me money on every bill, and 39 lari a month for messaging I already do for free doesn't make up for that.",
+  "would_change_my_mind": "The exact Keepz fee written down up front, the same as or below my card terminal, with next-day payout. Then I'd try the free founding months, mostly for the Google and Tripadvisor review invites from tourists.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 60,
+  "price_too_expensive": 100
+}

@@ -1,6 +1,7 @@
-HoReCa Hub, a new platform for independent restaurants in Tbilisi. All prices are in Georgian lari (GEL) per month.
-Free for every restaurant: a listing in the HoReCa Hub diner app, plus HoReCa-only boards for suppliers, staff (waiters, chefs, bartenders) and restaurant premises for rent or sale.
-Paid "Guest Loop" plan, 59 GEL a month: a QR code on each table. Guests pay the bill in their phone's browser (card, Apple Pay, Google Pay or bank), with no app to install, and can then rate each dish they ordered. Only guests who paid can review.
-You see each guest's visits (first time or regular), switch on a ready-made loyalty reward, and send offers and event announcements to your own guests.
-It works next to your current POS and card terminal. Payments go through a licensed Georgian payment partner, whose per-transaction fee is charged on top.
-Launch offer: the first 3 months of Guest Loop are free for early restaurants.
+HoReCa Hub "Founding Restaurants" offer, for independent restaurants in Tbilisi. All prices are in Georgian lari (GEL) per month.
+Free for every restaurant: a listing in the HoReCa Hub diner app, HoReCa-only boards for suppliers, staff and premises, and QR payment at the table. Guests pay in the phone browser (card, Apple Pay, Google Pay or bank), with no app. Payments go through Keepz, which is licensed by the National Bank of Georgia. You get the exact per-transaction fee and payout time in writing before you sign, to compare with your card terminal. Waiters keep their terminal for anyone who prefers it.
+Guest Loop plan, 39 GEL a month: dish ratings from guests who paid come to you privately first, and you choose what goes public. Happy guests are invited to also review you on Google or Tripadvisor. You see each guest's visits (first time or regular), switch on a ready-made loyalty reward and message your own guests about offers and events. Guests can add a tip that goes straight to the waiter.
+Your guest list belongs to you: it is in the contract, and you can export it any time, even if you leave.
+We set it up for you in one visit and train your staff in 30 minutes. Nothing changes in your POS.
+Guarantee: if fewer than 1 in 5 of your bills are paid by QR in your first paid month, that month is free.
+Founding Restaurants (first 30 restaurants, until 31 March 2027): 3 months free, then 29 GEL a month locked for 12 months, in exchange for sharing your results in a short case study.
