@@ -54,3 +54,19 @@ Proof and team
 ## The strongest version the board can see
 
 This is **not** the ecosystem as pitched. It's a single product for independent restaurants in one Georgian city: the guest scans a QR code at the table and pays in the browser, with no app needed. That payment automatically creates a verified, dish-level review and a guest record, so the owner sees "Nino, third visit, always orders khinkali" and can switch on a ready-made loyalty reward with one tap. It's sold to owners on one promise: more repeat guests, measured. The payment-linked data is the one asset none of the members thinks a listing site can easily copy. Once that loop dominates one city, the diner directory grows out of the reviews it creates, and the B2B modules (suppliers, hiring, property) become upsells to restaurants that already trust the platform. Those modules come later; they aren't the starting point.
+
+## Chair's note after the founder's clarification (not re-scored)
+
+The founder clarified that the B2B side is a **listings marketplace**: it connects restaurants with suppliers, job seekers and property owners or brokers, and doesn't run the deals itself.
+
+**What this changes**
+- Building and running it gets much lighter. Listings plus contact is a far smaller build than procurement, recruitment or brokerage software, so the "ten products" critique is partly answered for the B2B side.
+- It could solve the week-one value problem the Offers lens raised. A restaurant gets something useful (staff, suppliers, premises) before any diner has the app. That makes B2B listings a possible free hook to sign up restaurants, not just a later upsell.
+
+**What it doesn't change**
+- Every listing board is still its own two-sided market. It needs supply (suppliers, job seekers, property listings) and demand (restaurants), and each side has its own cold start.
+- Listings are easy to copy, and both sides can switch away cheaply, because people post in several places at once. Listings alone don't build a moat. The payment-linked guest data is still the only moat the board identified.
+- Subscription revenue from listings depends on getting results, such as hires made or supplier deals closed. Willingness to pay is still unknown (→ /founder-consumer, /founder-pricing).
+
+**New condition**
+- [ ] Choose a role for the B2B listings: either (a) a free hook to bring restaurants onto the QR/loyalty product, or (b) a separate paid product. If (b), name the one listing category to launch first and how its supply side gets filled. *(→ /founder-competitors: who already lists HoReCa jobs, suppliers and properties in Georgia)*

@@ -10,6 +10,7 @@ A two-sided HoReCa (hotels, restaurants, cafés) ecosystem in Georgia: a B2B pla
 - HR module: restaurants post jobs; job seekers find hospitality jobs.
 - Property module: HoReCa properties listed for lease and for sale.
 - Monetization: subscriptions paid by suppliers and by restaurant owners.
+- Founder clarification: the B2B side is a listings marketplace that connects the right parties (restaurants with suppliers, employers with job seekers, owners/brokers with tenants and buyers). The platform does not run sourcing, recruitment or property deals itself; it is mostly listings plus contact.
 
 ## B2C side (free for diners)
 - Directory of all restaurants with rankings.
