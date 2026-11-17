@@ -90,3 +90,13 @@ Public reviews of these local tools are scarce. Every theme below is **thin** (f
 - [~] Count independent restaurants in Tbilisi. **Partly answered:** 2,562 restaurants on Tripadvisor (includes chains); confirm with Geostat.
 - [~] Payment processing and licensing. **Partly answered:** Keepz is licensed by the National Bank of Georgia (open banking provider since July 2024, payment system operator since December 2025). Partnering avoids building payments yourself. Fees still need a quote (one user reports 2.5%).
 - [ ] What stops a copycat in month six. **Open.** Wox and Keepz are each one feature away.
+
+## Founder's response on B2B listings (17 Nov 2026)
+
+The founder's position: the B2B listings are a free addition. Their value is **focus**: properties suited to restaurants only, jobs for waiters and chefs only, and suppliers, all in the one place where an owner already manages daily operations. They don't need to beat ss.ge or jobs.ge on volume.
+
+What this means for the analysis:
+- This is a valid vertical-niche argument. A filtered board can beat a general one on relevance, and it costs the restaurant nothing.
+- **It's only useful if it isn't empty.** A niche board with 12 listings is worse than ss.ge with 29,000. Each board needs its supply side seeded before launch: suppliers, job seekers, and property owners or brokers. Don't copy listings from ss.ge, myhome.ge or jobs.ge without permission; that likely breaks their terms.
+- **How often an owner uses each board matters for the "daily routine" claim.** Suppliers are used weekly or even daily (orders, prices). Hiring is periodic, and turnover in restaurants is high. Property is rare, used once every few years. Only suppliers fit "daily routine". Jobs and property bring an owner back occasionally.
+- Suggested order to fill the boards: (1) suppliers, used most often and with no clear local leader; (2) HoReCa jobs, since restaurants post them themselves, so supply arrives free; (3) property, seeded through a few brokers who specialise in restaurant spaces.
