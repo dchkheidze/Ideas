@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "59 lari is nothing to me, but I am not putting an unknown startup between my guests and their bill, paying an extra transaction fee on top of my terminal, when Instagram and WhatsApp already fill my tables for free.",
+  "objection": "A new startup - will it still exist in a year, and who owns my guest data? If they fold or sell, my regulars' contacts and reviews go with them, and a bad dish rating sits in a public app I don't control.",
+  "would_change_my_mind": "A signed contract that the guest list is mine and exportable any time, plus two or three respected venues in Sololaki or Vake running it for six months without problems.",
+  "price_too_cheap": 15,
+  "price_cheap": 39,
+  "price_expensive": 120,
+  "price_too_expensive": 200
+}

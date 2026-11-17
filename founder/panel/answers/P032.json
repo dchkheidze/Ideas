@@ -1,0 +1,13 @@
+{
+  "id": "P032",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I already pay for Wox and a card terminal and my staff barely keep up with those; I'm two waiters short and have no time to roll out a second system, even a free one. 59 lari isn't the problem, the extra setup, another per-transaction fee and public dish ratings on my menu are.",
+  "objection": "Another system next to my POS means double work for staff and reconciling payments in two places, plus a second card fee on top of what I already pay - and I don't want one bad table rating a dish in front of tourists.",
+  "would_change_my_mind": "If it plugged straight into Wox so the bill closes itself in my POS with no extra steps for staff, and the payment fee was no higher than my current terminal.",
+  "price_too_cheap": 10,
+  "price_cheap": 30,
+  "price_expensive": 90,
+  "price_too_expensive": 150
+}

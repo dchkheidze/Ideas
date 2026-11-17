@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "price",
+  "reason": "Three free months and nothing to install for guests, so I'd try it. Knowing who my regulars are and messaging them directly is something I can't do now. But I'd watch the dish ratings very closely, and if they start hurting me I'm turning it off before I ever pay.",
+  "objection": "One bad rating on a dish from a rushed Saturday stays public forever. On a small café that can do more damage than 59 lari a month brings back.",
+  "would_change_my_mind": "If I could reply to reviews, or keep dish ratings private to me while I fix things, I'd stay on after the free months without a second thought. If the ratings are public with no control, I'll walk away.",
+  "price_too_cheap": 15,
+  "price_cheap": 35,
+  "price_expensive": 79,
+  "price_too_expensive": 120
+}

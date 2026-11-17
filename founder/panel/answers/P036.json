@@ -1,0 +1,13 @@
+{
+  "id": "P036",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Three months free costs me nothing, and in summer my tourists already pay with Apple Pay, so paying at the table without waiting for the terminal could speed up turnover. I'd try it, but I'm not committed to paying 59 a month until I see guests actually use it.",
+  "objection": "The reviews stay inside a new app nobody has heard of, while my business lives on Google and Tripadvisor. And another per-transaction fee on top of what my bank already takes; if half my guests still hand over a card, I'm paying for nothing.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 10,
+  "price_cheap": 30,
+  "price_expensive": 80,
+  "price_too_expensive": 150
+}

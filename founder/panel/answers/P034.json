@@ -1,0 +1,13 @@
+{
+  "id": "P034",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My guests are tourists and the reviews that bring them in are on Google and Tripadvisor, not in a new local app. And if guests pay from a QR code, my waiters will think they lose their tips and fight it from day one.",
+  "objection": "Nothing says how tips work when the guest pays on their phone, and my staff will sabotage anything that touches the bill. On top of that I'd pay the per-transaction fee again on top of my terminal, for reviews nobody I care about will read.",
+  "would_change_my_mind": "A built-in tip option that goes straight to the waiter, and paid guests being pushed to leave their review on Google too, not only inside HoReCa Hub.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

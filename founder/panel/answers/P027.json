@@ -1,0 +1,13 @@
+{
+  "id": "P027",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I already have a POS and a QR menu, and I just lost two waiters, so the last thing I need is another system for the staff I have left to learn. Three free months is nice, but free doesn't pay for the hours spent explaining it to guests and staff.",
+  "objection": "Will my guests really pay by QR instead of handing over a card or cash? If half of them still want the terminal, I'm running two payment flows and reconciling them myself, plus paying a transaction fee on top.",
+  "would_change_my_mind": "If it plugged straight into my existing POS so the bill shows up on the QR automatically with zero extra work for staff, and another café nearby showed me most of their guests actually pay that way.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

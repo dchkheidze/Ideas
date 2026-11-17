@@ -1,0 +1,13 @@
+{
+  "id": "P025",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I already pay for Wox and a card terminal, and right now I'm two waiters short and have no time to set up another system and teach staff and guests to use it. Maybe I'd let them stick QR codes on the tables while it's free, but I'm not counting on paying 59 lari a month after that.",
+  "objection": "It's one more monthly bill plus another transaction fee on top of what my bank terminal already takes, and I don't believe my guests, a lot of them older or tourists, will scan a QR to pay instead of just handing over a card.",
+  "would_change_my_mind": "Seeing a restaurant like mine in Tbilisi where QR payment actually cut table turnaround enough to cover a missing waiter, with the payment partner's fee no higher than my current terminal fee.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

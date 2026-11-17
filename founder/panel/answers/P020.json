@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "price",
+  "reason": "Three months free with nothing to install, so I'll put the QR codes on a few tables and see if my regulars actually use it. If by month three it isn't bringing people back, I cancel before I pay a tetri of the 59 GEL.",
+  "objection": "A new startup - will it still exist in a year, and who owns my guest data? If they fold or sell, my guest list goes with them. And the payment partner's fee on top of every bill, I don't know how much that is yet, and half my customers pay at the counter anyway.",
+  "would_change_my_mind": "If the per-transaction fee turns out higher than my card terminal's, or they won't put in writing that I can export my guest list, I won't move to the paid plan.",
+  "price_too_cheap": 10,
+  "price_cheap": 30,
+  "price_expensive": 70,
+  "price_too_expensive": 100
+}

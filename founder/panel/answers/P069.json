@@ -1,0 +1,13 @@
+{
+  "id": "P069",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "The listing and job boards I can take or leave, because jobs.ge and Instagram already work for hiring. But three free months of guests paying at the table and only real payers reviewing dishes is worth a try, and my manager can run it. If it pays off I'll keep it at 59 lari.",
+  "objection": "The payment partner's fee on top of every bill. If it costs more than my bank terminal, or my older regulars won't scan a QR code, I'm paying 59 lari for something nobody uses.",
+  "would_change_my_mind": "If the per-transaction fee turns out higher than my current card terminal fee, I would drop it after the free months.",
+  "price_too_cheap": 15,
+  "price_cheap": 35,
+  "price_expensive": 80,
+  "price_too_expensive": 120
+}

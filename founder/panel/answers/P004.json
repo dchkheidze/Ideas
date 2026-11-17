@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already have a POS and a QR menu that my staff know, and I'm not putting a second QR on the table that invites every tourist to publicly score each dish. Three free months doesn't help if one bad night with the khinkali stays on my page for good.",
+  "objection": "Per-dish ratings that are public and permanent. One off night in the kitchen, or one guest who didn't like the wine, and it follows me forever, and I don't get to answer it or decide whether it shows. On top of that, the payment fee comes on top of what I already pay my terminal.",
+  "would_change_my_mind": "If the dish ratings came only to me privately, with nothing public unless I chose to show it, and it plugged into my existing POS so my staff don't have a second system to learn.",
+  "price_too_cheap": 15,
+  "price_cheap": 39,
+  "price_expensive": 99,
+  "price_too_expensive": 160
+}

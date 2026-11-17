@@ -1,0 +1,13 @@
+{
+  "id": "P029",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "My tourists already pay by card at the table, and the reviews that bring them in are on Tripadvisor and Google, not in a new Tbilisi app nobody abroad has heard of. My regulars already come three or four times a week, so I don't need a loyalty tool to bring them back.",
+  "objection": "Foreign guests won't bother scanning a QR to pay when the waiter is standing there with a terminal, and I'd be paying an extra transaction fee on top for dish ratings that don't show up where tourists actually look.",
+  "would_change_my_mind": "If a guest who paid by QR got pushed straight to leave the review on my Google or Tripadvisor page, so it actually raised the ratings tourists see.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 59,
+  "price_too_expensive": 90
+}

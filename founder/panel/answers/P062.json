@@ -1,0 +1,13 @@
+{
+  "id": "P062",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "I'm two waiters short, so anything that lets guests pay at the table without waiting for someone to bring the terminal is worth a try, and three free months costs me nothing. But it has to earn its 59 lari in the first paid month or I cancel it.",
+  "objection": "A new startup holding my guests' contacts and payment history: if it folds in a year or sells the data to the place across the street, I've lost my regulars. I also don't know how big the payment partner's fee on top is.",
+  "would_change_my_mind": "A written guarantee that the guest list is mine and can be exported at any time, plus the exact per-transaction fee stated up front.",
+  "price_too_cheap": 15,
+  "price_cheap": 35,
+  "price_expensive": 90,
+  "price_too_expensive": 150
+}

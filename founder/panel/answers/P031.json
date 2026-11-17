@@ -1,0 +1,13 @@
+{
+  "id": "P031",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "My whole business lives on my Google and Tripadvisor stars, and I am not putting a QR code on every table that invites tourists to grade each dish one by one. Even with 3 months free, I don't want to hand a stranger's platform a new place for bad ratings about me.",
+  "objection": "One tired tourist rates my khachapuri badly on a busy day and it sits there forever under my name, and I have no say over it. Plus another fee on top of every card payment when my margins are already thin.",
+  "would_change_my_mind": "If the dish ratings came only to me privately, as feedback, and nothing was published unless I chose it.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 70
+}

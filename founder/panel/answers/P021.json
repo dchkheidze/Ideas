@@ -1,0 +1,13 @@
+{
+  "id": "P021",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "price",
+  "reason": "Three months free and it sits next to my POS, so trying it costs me nothing but some table stickers. I'd sign up for the trial, but whether I keep paying 59 GEL after that depends on regulars actually using the QR and coming back for the offers.",
+  "objection": "You're a new startup. Will you still be around in a year, and if you vanish, who keeps my guest list and the reviews? I want to be able to export my guest data and know you won't sell it or use it to push diners to other places in your app.",
+  "would_change_my_mind": "If the contract doesn't say clearly that the guest data is mine and I can export it whenever I want, I won't put the QR codes on my tables.",
+  "price_too_cheap": 10,
+  "price_cheap": 30,
+  "price_expensive": 70,
+  "price_too_expensive": 110
+}

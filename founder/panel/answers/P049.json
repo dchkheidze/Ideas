@@ -1,0 +1,13 @@
+{
+  "id": "P049",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already fill my events and promos through Instagram and WhatsApp for free, and I check my own totals every night. Putting public per-dish ratings on my small café feels like handing my reputation to strangers for 59 GEL a month plus extra card fees.",
+  "objection": "One bad rating on a dish stays public forever and I can't answer it or take it down. On top of that, the payment partner's fee comes out of my already thin margin.",
+  "would_change_my_mind": "If I could keep dish ratings private, so only I see them, and still get the loyalty and guest messaging, I'd try the free 3 months.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 70
+}

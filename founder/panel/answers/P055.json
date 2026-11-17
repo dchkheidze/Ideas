@@ -1,0 +1,13 @@
+{
+  "id": "P055",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I'm two waiters short and barely keeping the floor running; I don't have time to teach regulars a new QR payment thing when Instagram and WhatsApp already bring them back for free. I might take the free listing, but I won't pay 59 lari a month plus extra card fees on top of my terminal.",
+  "objection": "Another per-transaction fee on top of what my bank already takes, for loyalty and messaging I already do myself on Instagram for nothing.",
+  "would_change_my_mind": "If the QR pay really saved my short staff time at the tables and the transaction fee was no higher than my current terminal, and someone came in and set it all up for me.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 70
+}

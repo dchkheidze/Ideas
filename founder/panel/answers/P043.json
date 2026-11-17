@@ -1,0 +1,13 @@
+{
+  "id": "P043",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "You tell me there's a payment partner and a fee 'on top', but not who they are, what the percentage is, or when the money lands in my account. I'm not putting guest payments through something I can't reconcile at night, and 59 lari a month on top of a fee I don't know is not a small thing for me.",
+  "objection": "Unknown transaction fee and payout timing. If the money sits two or three days with someone I've never heard of, or the fee is higher than my bank terminal, that eats my margin on every coffee.",
+  "would_change_my_mind": "Naming the bank or payment partner, a written per-transaction fee no higher than my current terminal, and next-day payout, so I can see in the free 3 months that the reviews and repeat guests actually bring in more than 59 lari.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 70
+}

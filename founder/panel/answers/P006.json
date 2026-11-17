@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I'm two waiters down and the ones I have left would walk if I changed how the bill and tips work in the middle of service. My regulars know me, I know them, and I don't need an app to tell me who comes back or a loyalty stamp like a chain.",
+  "objection": "Guests paying from a QR code means my waiters lose the moment at the table where the tip happens, and they'll fight it. And on top of 59 GEL there's a payment fee I can't see yet, so I don't know what it really costs me.",
+  "would_change_my_mind": "Proof from another wine bar in Sololaki or Vake that tips went up or stayed the same with the QR payment, plus the exact per-transaction fee written down before I sign.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 79,
+  "price_too_expensive": 129
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P023",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "price",
+  "reason": "Three free months and nothing to install next to my terminal, so I would try it; seeing who comes back and rewarding my regulars is something I do in my head now. Whether I keep paying after the free months depends on whether my guests actually use the QR.",
+  "objection": "Will my guests, a lot of them older neighbourhood regulars, really pay by QR instead of handing me a card or cash, and how much is the payment partner's fee on top of the 59 lari, because my margins are thin.",
+  "would_change_my_mind": "If after the free months fewer than a third of my tables pay by QR, or the per-transaction fee turns out higher than my bank terminal's, I would cancel.",
+  "price_too_cheap": 10,
+  "price_cheap": 30,
+  "price_expensive": 59,
+  "price_too_expensive": 90
+}

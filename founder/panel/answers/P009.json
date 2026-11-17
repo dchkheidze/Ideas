@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I know my regulars by name, I don't need a QR code to tell me who comes back, and loyalty rewards feel like a chain thing. I already pay for Wox and a card terminal, and another system plus another per-transaction fee is just more for my manager to look after.",
+  "objection": "Why pay 59 lari a month plus extra card fees for something on top of the POS and terminal I already have, when my regulars come because of me, not an app? Half my summer weekend guests are tourists I'll never see again anyway.",
+  "would_change_my_mind": "If it plugged straight into my Wox/SQR so there's no second system, and the payment fee was no higher than my terminal's, and other owners I know showed me it brought real repeat visits or tourist bookings.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 70
+}

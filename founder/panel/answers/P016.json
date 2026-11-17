@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I already have a POS and a QR menu, and I'm two waiters short. The last thing I need right now is another QR on the table and another system my remaining staff have to learn and explain to guests. The free listing and staff board are fine, but I hire through jobs.ge and Instagram already.",
+  "objection": "A second QR next to my existing menu QR confuses guests, and if the payment doesn't match up with what's in my POS, my manager ends up reconciling bills by hand at closing. Plus the payment partner's fee on top of 59 GEL.",
+  "would_change_my_mind": "If it plugged straight into my POS so the bill on the phone is the same bill in the system, replaced my current QR menu instead of adding a second one, and saved my short-staffed floor real time at checkout.",
+  "price_too_cheap": 10,
+  "price_cheap": 30,
+  "price_expensive": 80,
+  "price_too_expensive": 150
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason": "They don't say who the payment partner is, what the fee per transaction is, or when the money lands in my account, so I can't put my bills through it. My bookings, regulars and promos already run free on Instagram and WhatsApp, so 59 GEL a month on top of an unknown fee isn't worth the risk to me yet.",
+  "reason_code": "trust",
+  "objection": "A payment company I've never heard of, a fee I can't see and payout timing I don't know. If tourists' card payments get stuck or come in days late, that's my cash flow in high season.",
+  "would_change_my_mind": "Name a bank I know as the payment partner, show a per-transaction fee no higher than my current terminal's, and pay out next day. Then I'd use the 3 free months on the summer terrace to see if tourists actually pay and review through the QR.",
+  "price_too_cheap": 10,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 100
+}

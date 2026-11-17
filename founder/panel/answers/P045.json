@@ -1,0 +1,13 @@
+{
+  "id": "P045",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Three free months costs me nothing, and in summer half my weekend tables are tourists who wait for the bill and like Apple Pay, so I'd put the QR codes out and see. But I'm only paying 59 lari after that if I can see faster table turns or repeat locals coming back from the offers.",
+  "objection": "My regular Georgian guests hand over cash or a card. I don't think they'll scan a QR, and the payment partner's fee comes on top of what my terminal already costs me, so I could end up paying twice for the same bill.",
+  "would_change_my_mind": "If after the free months fewer than about a quarter of tables actually pay by QR, or the per-transaction fee is higher than my bank terminal's, I cancel.",
+  "price_too_cheap": 10,
+  "price_cheap": 30,
+  "price_expensive": 70,
+  "price_too_expensive": 110
+}

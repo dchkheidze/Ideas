@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "I'd post on the free staff board because I need waiters right now, but I'm not putting a new payment system on my tables while I'm two people short and can't train anyone. Three free months is nice, but after that it's 59 lari plus another fee on every bill, and I don't see it paying for itself.",
+  "objection": "Another per-transaction fee on top of what my card terminal already costs me, and I don't believe my guests will scan a QR to pay instead of just handing over a card.",
+  "would_change_my_mind": "If the staff board actually got me two decent waiters fast, and another Tbilisi restaurant showed me the QR payments really cut table turnover time and brought regulars back, I'd try the free months.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

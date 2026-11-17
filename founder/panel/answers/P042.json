@@ -1,0 +1,13 @@
+{
+  "id": "P042",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I know my regulars by name, I don't need a screen to tell me who is first-time or a loyalty reward like a chain. I might take the free listing, but I won't hand my guests' payments and contacts to a startup I've never heard of, even for three free months.",
+  "objection": "A new startup - will it still exist in a year, and who owns my guest data? Plus a fee on every payment on top of my terminal, on my margins.",
+  "would_change_my_mind": "Seeing it running for a season in cafés I know, with a written promise that the guest list is mine to export and keep if they close - then maybe for the summer tourists who want to pay fast.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 70
+}

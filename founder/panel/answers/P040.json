@@ -1,0 +1,13 @@
+{
+  "id": "P040",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Three months free costs me nothing, and pay-at-table plus reviews only from guests who actually paid is something my place in Sololaki could use, with tourists waiting for the bill and leaving fake-looking reviews elsewhere. I'll put it on a few tables and see if guests use it before I pay a tetri.",
+  "objection": "A new startup - will it still exist in a year, and who owns my guest data? If they fold or sell, I don't want my regulars' contacts walking out the door, and the payment partner's fee on top of every bill could eat more than the 59 lari.",
+  "would_change_my_mind": "If the contract doesn't say in writing that the guest list is mine and I can export it any time, I walk away after the free months.",
+  "price_too_cheap": 15,
+  "price_cheap": 40,
+  "price_expensive": 120,
+  "price_too_expensive": 200
+}

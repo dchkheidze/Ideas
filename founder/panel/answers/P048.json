@@ -1,0 +1,13 @@
+{
+  "id": "P048",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I'll take the free listing, but I won't put a new startup's QR code on every table and route my guests' payments and contact details through it. Three free months doesn't help if they disappear in a year with my regulars' data, and in the off-season I can't tell whether it pays for itself.",
+  "objection": "Who owns my guest list and reviews, and what happens to them if this startup closes or gets sold? On top of that, a payment fee on every bill, plus my staff and older regulars getting confused by QR payment.",
+  "would_change_my_mind": "A written guarantee that the guest data is mine and I can export it any time, plus two or three restaurants I know in Tbilisi telling me it brought guests back and the fees were fair.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 59,
+  "price_too_expensive": 90
+}

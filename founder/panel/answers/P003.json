@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "I'm two waiters short, so if guests can settle the bill themselves it saves my people the running back and forth with the terminal. Three months free means I can test it without risking my money, but I'm only taking the free trial and I'll decide on the 59 GEL after that.",
+  "objection": "Most of my guests here hand over a card or cash and wait for the waiter. I don't believe many will pay by QR, and if my manager has to match these payments against Wox by hand every night, it's one more system, not less work.",
+  "would_change_my_mind": "If after the free months less than a fifth of tables pay by QR, or it doesn't line up with my POS without manual work, I cancel. If it closes bills straight into my POS, I'd pay without thinking.",
+  "price_too_cheap": 15,
+  "price_cheap": 35,
+  "price_expensive": 80,
+  "price_too_expensive": 130
+}

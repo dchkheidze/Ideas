@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I know my regulars by name and what they order - I don't need a QR code to tell me who's a regular or a loyalty reward to keep them. I already pay for Wox and a card terminal, and 59 lari a month plus another transaction fee on top is real money for a place my size.",
+  "objection": "Another system with another fee on top of what I already pay, for things I do myself with a handshake. And my older regulars want to pay at the counter and chat, not scan something on the table.",
+  "would_change_my_mind": "If it clearly brought me new customers I don't have now, with the free months showing real new faces, and the payment fee was lower than what my bank terminal charges.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 30,
+  "price_too_expensive": 50
+}

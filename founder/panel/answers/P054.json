@@ -1,0 +1,13 @@
+{
+  "id": "P054",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I know my regulars by name, I don't need an app to tell me who comes back, and loyalty rewards feel like something for chains. Even free for three months, I'm not going to fight my waiters over a QR code that changes how the bill and tips are handled.",
+  "objection": "My waiters will push back hard if guests pay on their phones and skip them, because they'll think their tips go down, and on top of the 59 lari there's a payment fee I don't know yet.",
+  "would_change_my_mind": "Proof from another Tbilisi restaurant like mine that tips stayed the same or went up and the waiters actually liked it, with the payment fee clearly lower than what my card terminal charges now.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

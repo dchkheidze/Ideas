@@ -1,0 +1,13 @@
+{
+  "id": "P056",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "It doesn't say who the payment partner is, what they take per transaction or when the money lands in my account, and on my margins that matters more than the 59 lari. I know my regulars by name already, so a loyalty reward and guest tracking don't do much for me. That's chain stuff.",
+  "objection": "A hidden per-transaction fee on top of my card terminal fees, and maybe waiting days for my money when I need it to pay suppliers this week. Free for 3 months means nothing if every bill paid through the QR code costs me more.",
+  "would_change_my_mind": "A named Georgian bank as the partner, a per-transaction fee in writing that's at or below what my terminal charges, and next-day payout.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

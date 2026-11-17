@@ -1,0 +1,13 @@
+{
+  "id": "P022",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "They don't name the payment partner, the fee per transaction or when the money lands in my account, so I can't put my tourists' card payments through it, even free for three months. Reviews inside a new app nobody has heard of also do nothing for me next to Tripadvisor and Google, which is where my foreign guests decide.",
+  "objection": "Unknown payment company, an unknown fee charged on top of my 59 GEL, and no word on payout timing. If the fee is higher than my bank terminal's or the money takes days to arrive, the QR saves my short-staffed floor a few minutes and costs me margin.",
+  "would_change_my_mind": "A named, licensed Georgian bank or payment partner with a written per-transaction fee at or below my current terminal rate, next-day payout, and the option to push paid guests to leave their review on Google or Tripadvisor.",
+  "price_too_cheap": 15,
+  "price_cheap": 39,
+  "price_expensive": 99,
+  "price_too_expensive": 160
+}

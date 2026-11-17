@@ -1,0 +1,13 @@
+{
+  "id": "P063",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "My guests are tourists who already find me on Google and Tripadvisor, and I don't need another place where one tired traveller can rate my khachapuri badly for everyone to see. Even free for three months, I'm not putting a QR code on my tables that invites dish-by-dish ratings.",
+  "objection": "Verified reviews could hurt me - one bad dish rating is public forever, and I can't answer or remove it. Plus tourists who visit once won't care about loyalty rewards, and the payment fee on top eats into my thin margin.",
+  "would_change_my_mind": "If the dish ratings stayed private to me as feedback, and only good ones could be pushed to Google or Tripadvisor at my choice.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 70
+}

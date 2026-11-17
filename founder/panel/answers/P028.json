@@ -1,0 +1,13 @@
+{
+  "id": "P028",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "My tourists already tap their card on my terminal without any fuss, and the reviews that bring people in are on Google and Tripadvisor, not in a new local app my foreign guests have never heard of. Paying 59 lari a month plus another transaction fee doesn't buy me anything my terminal and Instagram don't already do.",
+  "objection": "Will a tourist at my table really scan a QR and pay in their browser instead of just handing me their card? And dish ratings inside HoReCa Hub don't move my Google or Tripadvisor score, which is what actually fills my seats.",
+  "would_change_my_mind": "If the verified reviews were pushed to my Google or Tripadvisor page, or the guests asked to rate me there, I would try the free three months.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

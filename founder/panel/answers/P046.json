@@ -1,0 +1,13 @@
+{
+  "id": "P046",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "I already have a POS, a card terminal and a QR menu, and I count cash and card totals myself every night. A second payment stream with its own fees and its own report is more work for me and my staff, and a free trial doesn't change that.",
+  "objection": "Will my guests, mostly tourists and older regulars, really scan and pay by phone instead of handing a card to the waiter, and how do I reconcile those payments with my POS each night without double work?",
+  "would_change_my_mind": "If it plugged straight into my existing POS so QR payments closed the bill there automatically and showed up in the same nightly total, with a transaction fee no higher than my terminal's.",
+  "price_too_cheap": 15,
+  "price_cheap": 35,
+  "price_expensive": 90,
+  "price_too_expensive": 150
+}
