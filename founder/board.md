@@ -69,4 +69,4 @@ The founder clarified that the B2B side is a **listings marketplace**: it connec
 - Subscription revenue from listings depends on getting results, such as hires made or supplier deals closed. Willingness to pay is still unknown (→ /founder-consumer, /founder-pricing).
 
 **New condition**
-- [ ] Choose a role for the B2B listings: either (a) a free hook to bring restaurants onto the QR/loyalty product, or (b) a separate paid product. If (b), name the one listing category to launch first and how its supply side gets filled. *(→ /founder-competitors: who already lists HoReCa jobs, suppliers and properties in Georgia)*
+- [x] **Decided: (a), B2B listings are a free hook for restaurants.** Choose a role for the B2B listings: either (a) a free hook to bring restaurants onto the QR/loyalty product, or (b) a separate paid product. If (b), name the one listing category to launch first and how its supply side gets filled. *(→ /founder-competitors: who already lists HoReCa jobs, suppliers and properties in Georgia)*
