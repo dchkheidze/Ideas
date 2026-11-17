@@ -1,0 +1,13 @@
+{
+  "id": "P077",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I already have a POS, a card terminal and a QR menu, and my guests here hand over a card or cash. A second QR for paying means my staff have to match those payments against the POS by hand, and I don't want that headache even if the first three months are free.",
+  "objection": "Will my guests really pay by QR instead of handing a card to the waiter? If only a few do, I get no reviews and no guest list, and I've still added a system my staff have to learn, plus an extra transaction fee.",
+  "would_change_my_mind": "If it connected straight to my existing POS so the QR payment closes the bill automatically, and I could see a restaurant like mine in Tbilisi where most guests actually pay this way.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

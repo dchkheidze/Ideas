@@ -1,0 +1,13 @@
+{
+  "id": "P091",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already have my POS and QR menu, and I'm not putting a public rating on every single dish where one bad night with the khinkali stays online forever. Three months free doesn't change that - the reviews are the part I'd be stuck with.",
+  "objection": "Per-dish ratings that are public forever. One sour guest or one off day in the kitchen and that plate is marked for good, and I can't answer it or take it down. On top of that it's one more thing for my staff to learn next to the system we already use.",
+  "would_change_my_mind": "If I could keep dish ratings private, just for me and my manager, and use only the payment and loyalty side, and it hooked straight into my current POS so the waiters do nothing new.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 90
+}

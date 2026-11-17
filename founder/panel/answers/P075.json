@@ -1,0 +1,13 @@
+{
+  "id": "P075",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "My guests are tourists who come once and judge me on Tripadvisor and Google, not on some new local app, so dish ratings and loyalty for regulars do little for me. I'm not handing my guests' payments and data to a startup that might be gone next year; I might take the free listing, nothing more.",
+  "objection": "Who owns my guest data and what happens to it if this company folds or sells, and why would a tourist bother rating dishes here instead of on Google where it actually helps me.",
+  "would_change_my_mind": "If paid guests were pushed to leave their review on my Google or Tripadvisor page, with a written promise that the guest data is mine and I can export it any time.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

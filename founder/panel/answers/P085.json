@@ -1,0 +1,13 @@
+{
+  "id": "P085",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I know my regulars by name, I don't need a screen to tell me who's been in three times this week. My guests hand the waiter a card or cash and that works fine, so I'm not putting QR codes on my tables even if the first months are free.",
+  "objection": "My older regulars won't pay by QR on their phones, and on top of that the payment partner takes its own fee per transaction. Loyalty rewards and offers sent to phones are for chains, not a place like mine.",
+  "would_change_my_mind": "Seeing a restaurant like mine in Tbilisi where the regulars actually pay by QR and the owner shows me it turned tables faster without bothering anyone.",
+  "price_too_cheap": 10,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 90
+}

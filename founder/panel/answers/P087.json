@@ -1,0 +1,13 @@
+{
+  "id": "P087",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I already pay for Wox and a card terminal, and my regulars come three or four times a week, so I know them by face and they pay at the counter. I don't need a QR code on the table and a second system for my staff to learn, and I don't want another fee on every payment on top.",
+  "objection": "It's another system next to my POS and another per-transaction fee, and my small margins can't take both. My older regulars won't pay by phone anyway, so I'd pay 59 lari for something few of them would use.",
+  "would_change_my_mind": "If it ran inside Wox so my staff learned nothing new, with no extra transaction fee beyond what I pay now, and a nearby café showed me it brought in new guests.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 35,
+  "price_too_expensive": 59
+}

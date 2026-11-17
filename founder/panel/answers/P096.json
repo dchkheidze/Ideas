@@ -1,0 +1,13 @@
+{
+  "id": "P096",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "I'm two waiters short and running the floor myself; the last thing I need is a new way of paying the bill that my remaining staff will fight me on. My regulars already know me by name, I don't need an app to tell me who comes back.",
+  "objection": "My waiters will see guests paying on their phone as a threat to their tips, and I can't afford to lose anyone else right now. Plus another per-transaction fee on top of what the card terminal already takes.",
+  "would_change_my_mind": "If the free staff board actually got me two good waiters, I'd trust them enough to try the paid part, especially if tips clearly go to the waiter through the phone payment.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P095",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I know my regulars by name, I don't need a QR code to tell me who's been here before. I post my events on Instagram every Thursday and the place fills up, so a loyalty reward and offers system feels like something for chains, not for us.",
+  "objection": "Georgian guests like to pay the waiter and talk, not scan a code at the table, and on top of 59 lari there's another payment fee per bill. I'd be paying more to do something my staff already does.",
+  "would_change_my_mind": "If another owner I trust in Tbilisi showed me it actually brought new tables in, not just reviews, and the per-transaction fee was lower than my bank terminal.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

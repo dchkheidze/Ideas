@@ -1,0 +1,13 @@
+{
+  "id": "P093",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "My guests already follow me on Instagram and message me on WhatsApp, and that costs me nothing. I already pay for Wox and a card terminal, so another system plus another per-transaction fee is a hard sell, even with three months free.",
+  "objection": "Why pay a third system and an extra fee on every bill when Instagram already fills my weekends? And my waiters would have to explain QR payment to every table.",
+  "would_change_my_mind": "Proof from a Tbilisi restaurant like mine that it brought regulars back and the payment fee is no higher than my card terminal's.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

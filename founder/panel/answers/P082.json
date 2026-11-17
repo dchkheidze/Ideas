@@ -1,0 +1,13 @@
+{
+  "id": "P082",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I already have my POS and a QR menu, and my girls on the floor know how the bill and the tips go. I'm not going to make them learn another system for something my regulars don't ask for, even if the first three months are free.",
+  "objection": "If guests pay on their phone, my waiters will think they lose their tips, and they'll fight it or quietly ignore it. Plus the extra card fee on top, on small café bills, eats what little margin I have.",
+  "would_change_my_mind": "Seeing another small café in Tbilisi where the waiters actually got more tips through it, and it plugged straight into my existing POS so nobody has to enter anything twice.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}
