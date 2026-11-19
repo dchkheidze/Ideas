@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I can see the pain: finding a good builder for a flat is a nightmare and I have no evenings to chase crews. But my first instinct is to pay the crew directly and skip the middleman, and a platform that sits between me and the builder and holds my money looks like an extra layer that takes a cut. I would need to read real reviews of the builders before I trusted anything on it.",
+  "objection": "Who is really making money here, and why would I pay you on top of the builder's price when I could find and vet a crew myself? If the builders on it are just whoever paid for placement, I am back to distrusting it.",
+  "would_change_my_mind": "Verified builders with independent, checkable reviews from past private clients in my city, a fixed fee I can see before I sign, and a payment arrangement where my money is released only as the agreed work is signed off.",
+  "price_too_cheap": 50,
+  "price_cheap": 150,
+  "price_expensive": 600,
+  "price_too_expensive": 1000
+}

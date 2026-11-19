@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already have a builder in mind, so the job itself is not the problem; I only want the paperwork and payment handled. A platform that wants a fee on top of a price nobody has named is a reason to hold off, not to sign up.",
+  "objection": "I don't know yet whether the platform's fee is worth it, since the price is not stated. If it takes a cut of a renovation budget, I'd be paying extra for a contract my lawyer or the builder could draw up.",
+  "would_change_my_mind": "A published, flat fee that is clearly small next to the job, plus proof the payment holds back money until each stage is signed off.",
+  "price_too_cheap": 100,
+  "price_cheap": 300,
+  "price_expensive": 1500,
+  "price_too_expensive": 3000
+}

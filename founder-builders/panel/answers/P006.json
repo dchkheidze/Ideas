@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "The idea fits what I need, because I don't want to spend my evenings chasing a crew. But I can't tell whether the platform's fee is worth paying on top of the builder's price when no fee is stated.",
+  "objection": "I don't know what the platform charges, and I don't know whether it's a fee I'd pay on top of the builder's price for something I could maybe handle myself.",
+  "would_change_my_mind": "A clear, fixed fee stated up front, and confirmation that the service runs in my city.",
+  "price_too_cheap": 100,
+  "price_cheap": 250,
+  "price_expensive": 600,
+  "price_too_expensive": 1000
+}

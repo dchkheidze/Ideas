@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already get three quotes from crews and compare the numbers myself, and a platform that picks the builder for me just adds a middleman I have no way to check. I still don't know who vets these builders or what happens to my money if the work goes wrong.",
+  "objection": "Who checks that the builder is any good? A platform that promises to pick one for me has to show me the builders' track records and what it does when a job goes badly.",
+  "would_change_my_mind": "Verified past work and reviews for each builder, plus payment held in escrow and released only when each stage of the job is signed off.",
+  "price_too_cheap": 50,
+  "price_cheap": 150,
+  "price_expensive": 600,
+  "price_too_expensive": 1200
+}

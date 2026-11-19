@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I'd rather pay the crew directly and avoid the middleman. A platform that takes a cut on top of the builder's bid is one more cost I'd have to justify, and I'm not convinced the contract and payment handling are worth it.",
+  "objection": "Whether the platform's bids end up cheaper than going to the crew myself, or whether I'm just paying extra for a contract I could have drawn up or a builder I could have found through a friend.",
+  "would_change_my_mind": "Seeing real builder bids on the same brief that come in at or below what I'd pay going direct, with a fixed, clearly stated fee and proof the payment is held until the work is signed off.",
+  "price_too_cheap": 30,
+  "price_cheap": 100,
+  "price_expensive": 350,
+  "price_too_expensive": 700
+}

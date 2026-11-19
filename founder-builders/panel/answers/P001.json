@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already have a crew I trust, or at least someone in mind, so I only need the paperwork and payment done. Paying a platform to do that is not worth it unless it also tells me the builder is good, and this offer does not say that.",
+  "objection": "Who checks that the builder is any good? A friend's renovation ran over budget and dragged on for months, and a platform that just handles the contract and the money does not stop that happening.",
+  "would_change_my_mind": "Proof that the platform vets builders properly, with checked references and past finished jobs I can look at, plus payment held back until each stage of work is signed off.",
+  "price_too_cheap": 150,
+  "price_cheap": 400,
+  "price_expensive": 1500,
+  "price_too_expensive": 3000
+}

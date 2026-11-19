@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I have only ever hired builders through people I know, and I would still ask my friends for a crew before I pay a platform to pick one for me. A standard brief sounds useful, but I do not know who runs this or what happens to my money if the work goes wrong.",
+  "objection": "Who stands behind these builders, and if the flat comes out badly, who do I call and who holds my money in the meantime?",
+  "would_change_my_mind": "A builder I already trust, or a friend who has used it, recommends the platform and shows me a finished flat it handled, with the payment held until I sign off the work.",
+  "price_too_cheap": 30,
+  "price_cheap": 100,
+  "price_expensive": 300,
+  "price_too_expensive": 600
+}
