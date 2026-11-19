@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I got burned on my last work with a builder who ran over budget and dragged on for months, so I will not pay anyone to pick a contractor for me until I know what it costs and who stands behind the money. The price is not even stated, so I cannot tell whether the fee is worth it.",
+  "objection": "Nobody has said what the platform takes, and I do not know whether the escrow and payment handling protects me if the builder walks off or the job overruns.",
+  "would_change_my_mind": "A stated fee in dollars or as a percentage, plus a sample contract showing payments released only at agreed milestones and a refund if the builder misses the deadline.",
+  "price_too_cheap": 0,
+  "price_cheap": 100,
+  "price_expensive": 500,
+  "price_too_expensive": 1000
+}

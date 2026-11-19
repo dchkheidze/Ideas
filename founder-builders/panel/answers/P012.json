@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I'd rather find a crew through people I know and pay them directly. A platform sitting between me and the builder is one more party taking a cut and holding my money, and I don't know these people.",
+  "objection": "Who is actually vetting these builders, and what does the middleman fee add to the price when I could just pay the crew myself?",
+  "would_change_my_mind": "Verified references from people I know, plus a payment hold that releases only when the work is signed off and a clear, fixed fee I can see before I commit.",
+  "price_too_cheap": 10,
+  "price_cheap": 50,
+  "price_expensive": 300,
+  "price_too_expensive": 600
+}

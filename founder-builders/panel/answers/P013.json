@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I need the flat done and I know the platform could help, but I got burned on a renovation once and I won't pay a middleman before I know what happens when a builder walks off halfway. I'd rather find a builder myself and keep the money in my control.",
+  "objection": "If the work goes wrong halfway, will the platform actually help me, or just take its cut and leave me arguing with the builder?",
+  "would_change_my_mind": "A written guarantee that my money is held and released in stages as each stage is signed off, plus the platform stepping in to finish or refund when a builder fails.",
+  "price_too_cheap": 50,
+  "price_cheap": 150,
+  "price_expensive": 500,
+  "price_too_expensive": 1000
+}

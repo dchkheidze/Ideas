@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I have only ever hired builders through word of mouth, and I get three quotes before choosing. A platform fee on top of the builder's price has to give me something I cannot get myself, and nothing I have read so far shows that it does.",
+  "objection": "That the platform's fee is extra money on top of what the builder charges, and I would still have to check each builder myself.",
+  "would_change_my_mind": "Verified builders with reviews from past clients in my city, and a fee that comes out of a price lower than the best of my three quotes.",
+  "price_too_cheap": 0,
+  "price_cheap": 150,
+  "price_expensive": 600,
+  "price_too_expensive": 1500
+}

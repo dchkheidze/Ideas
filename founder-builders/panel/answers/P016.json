@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already get three quotes myself and compare the numbers, which takes me an afternoon. A platform in the middle means paying someone to pass me the same crews' numbers, and I would expect the crew's price to rise to cover that fee.",
+  "objection": "I do not know what the platform takes on top of the crew's price, and I cannot tell if it even covers my city. If it is a markup, I am paying for something I already do myself.",
+  "would_change_my_mind": "A flat fee shown before I start, with each crew's quote unchanged, and the service available in my city.",
+  "price_too_cheap": 30,
+  "price_cheap": 80,
+  "price_expensive": 250,
+  "price_too_expensive": 500
+}
