@@ -1,0 +1,63 @@
+# Buyer panel: Builder marketplace (working name not chosen): flat renovation first. ASSUMED TEST BUYER: a private owner of an apartment in a large Russian-speaking city who wants a flat renovation done. City, country and job type are not fixed in idea.md; this profile is an assumption, not customer data.
+
+**0 buy · 20 pass** (0% buy) out of 20 simulated buyers. Seed 975635, so the same cards can be dealt again.
+
+These are simulated buyers, not customers. Use this to find objections and weak spots, then confirm the big ones with real people before you spend.
+
+## By segment
+
+| group | buyers | buy rate |
+| --- | ---: | ---: |
+| Owner-occupier, higher income | 7 | 0%  (thin) |
+| Owner-occupier, budget-aware | 9 | 0% |
+| Landlord renovating a rental flat | 4 | 0%  (thin) |
+
+## By buying behaviour
+
+| group | buyers | buy rate |
+| --- | ---: | ---: |
+| Already has a crew | 2 | 0%  (thin) |
+| Referral-led | 3 | 0%  (thin) |
+| Reads reviews, slow to trust | 3 | 0%  (thin) |
+| Hands-off | 2 | 0%  (thin) |
+| Gets three quotes before choosing | 4 | 0%  (thin) |
+| Price-first | 3 | 0%  (thin) |
+| Burned before | 3 | 0%  (thin) |
+
+## By income
+
+| group | buyers | buy rate |
+| --- | ---: | ---: |
+| $2,938,000 and up | 7 | 0%  (thin) |
+| $2,011,000 to $2,938,000 | 7 | 0%  (thin) |
+| under $2,011,000 | 6 | 0%  (thin) |
+
+## Why they pass
+
+| reason | buyers | in their words |
+| --- | ---: | --- |
+| trust | 16 | "I already have a crew I trust, or at least someone in mind, so I only need the paperwork and payment done. Paying a platform to do that is not worth it unless it also tells me the builder is good, and this offer does not say that." (P001) · "I have only ever hired builders through people I know, and I would still ask my friends for a crew before I pay a platform to pick one for me. A standard brief sounds useful, but I do not know who runs this or what happens to my money if the work goes wrong." (P002) |
+| price | 3 | "The idea fits what I need, because I don't want to spend my evenings chasing a crew. But I can't tell whether the platform's fee is worth paying on top of the builder's price when no fee is stated." (P006) · "I'd rather pay the crew directly and avoid the middleman. A platform that takes a cut on top of the builder's bid is one more cost I'd have to justify, and I'm not convinced the contract and payment handling are worth it." (P008) |
+| habit | 1 | "I have only ever hired builders through word of mouth, and I get three quotes before choosing. A platform fee on top of the builder's price has to give me something I cannot get myself, and nothing I have read so far shows that it does." (P017) |
+
+## Why they buy
+
+| reason | buyers | in their words |
+| --- | ---: | --- |
+
+## What would flip a no
+
+- Proof that the platform vets builders properly, with checked references and past finished jobs I can look at, plus payment held back until each stage of work is signed off.
+- A builder I already trust, or a friend who has used it, recommends the platform and shows me a finished flat it handled, with the payment held until I sign off the work.
+- Verified builders with independent, checkable reviews from past private clients in my city, a fixed fee I can see before I sign, and a payment arrangement where my money is released only as the agreed work is signed off.
+- A friend or neighbour who has used it for a flat renovation and vouches for it, plus a clear breakdown showing the platform fee is small and the builder's price is not inflated.
+- A published, flat fee that is clearly small next to the job, plus proof the payment holds back money until each stage is signed off.
+- A clear, fixed fee stated up front, and confirmation that the service runs in my city.
+- Verified past work and reviews for each builder, plus payment held in escrow and released only when each stage of the job is signed off.
+- Seeing real builder bids on the same brief that come in at or below what I'd pay going direct, with a fixed, clearly stated fee and proof the payment is held until the work is signed off.
+- A stated price up front, plus proof that the builders are vetted and that the escrow payment protects me if the work goes wrong.
+- A standard written scope that every bid must price line by line, plus payment held by the platform and released only stage by stage after I sign off each stage, with builders I can check against past clients.
+- A stated fee that is clearly smaller than what the platform saves me on the bids, shown with a sample of real builder quotes for a flat like mine.
+- Verified references from people I know, plus a payment hold that releases only when the work is signed off and a clear, fixed fee I can see before I commit.
+
+20 buyers gave all four price answers. Run founder-pricing's van_westendorp.py on the answers folder.
