@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Aisha",
+  "age": 37,
+  "segment": "Owner-occupier, higher income",
+  "income": 4688000,
+  "behaviour": "Already has a crew",
+  "behaviour_how": "Mostly has someone in mind and only wants the paperwork and payment handled.",
+  "objection": "Who checks that the builder is any good?",
+  "habit": "a friend's renovation ran over budget and dragged on for months"
+ },
+ {
+  "id": "P002",
+  "name": "Maya",
+  "age": 37,
+  "segment": "Owner-occupier, higher income",
+  "income": 2523000,
+  "behaviour": "Referral-led",
+  "behaviour_how": "Asks friends and neighbours for a crew they have used and trust.",
+  "objection": "Bids from different firms never describe the same work, so how do I compare them?",
+  "habit": "you have only ever hired builders through word of mouth"
+ },
+ {
+  "id": "P003",
+  "name": "Marcus",
+  "age": 52,
+  "segment": "Owner-occupier, budget-aware",
+  "income": 1754000,
+  "behaviour": "Reads reviews, slow to trust",
+  "behaviour_how": "Checks reviews and ratings before contacting anyone, and distrusts anything that looks like an ad.",
+  "objection": "I would rather pay the crew directly and avoid the middleman",
+  "habit": "you are busy at work and cannot spend evenings chasing a crew"
+ },
+ {
+  "id": "P004",
+  "name": "Ada",
+  "age": 52,
+  "segment": "Owner-occupier, budget-aware",
+  "income": 2317000,
+  "behaviour": "Reads reviews, slow to trust",
+  "behaviour_how": "Checks reviews and ratings before contacting anyone, and distrusts anything that looks like an ad.",
+  "objection": "I would rather pay the crew directly and avoid the middleman",
+  "habit": "you have only ever hired builders through word of mouth"
+ },
+ {
+  "id": "P005",
+  "name": "Kofi",
+  "age": 31,
+  "segment": "Owner-occupier, higher income",
+  "income": 2900000,
+  "behaviour": "Already has a crew",
+  "behaviour_how": "Mostly has someone in mind and only wants the paperwork and payment handled.",
+  "objection": "I don't know yet whether the platform's fee is worth it, since the price is not stated",
+  "habit": "a friend's renovation ran over budget and dragged on for months"
+ },
+ {
+  "id": "P006",
+  "name": "Idris",
+  "age": 48,
+  "segment": "Owner-occupier, budget-aware",
+  "income": 1476000,
+  "behaviour": "Hands-off",
+  "behaviour_how": "Wants one person to manage the whole job so they do not have to chase the crew.",
+  "objection": "I don't know yet whether the platform's fee is worth it, since the price is not stated",
+  "habit": "you are busy at work and cannot spend evenings chasing a crew"
+ },
+ {
+  "id": "P007",
+  "name": "Iris",
+  "age": 40,
+  "segment": "Owner-occupier, budget-aware",
+  "income": 1767000,
+  "behaviour": "Gets three quotes before choosing",
+  "behaviour_how": "Asks several crews for prices, then compares the numbers and little else.",
+  "objection": "Who checks that the builder is any good?",
+  "habit": "your flat needs new floors, the kitchen and the bathroom redone"
+ },
+ {
+  "id": "P008",
+  "name": "Lucia",
+  "age": 41,
+  "segment": "Owner-occupier, budget-aware",
+  "income": 2190000,
+  "behaviour": "Price-first",
+  "behaviour_how": "Picks the cheapest bid unless something obvious rules it out.",
+  "objection": "I would rather pay the crew directly and avoid the middleman",
+  "habit": "a friend's renovation ran over budget and dragged on for months"
+ },
+ {
+  "id": "P009",
+  "name": "Yusuf",
+  "age": 36,
+  "segment": "Owner-occupier, budget-aware",
+  "income": 1545000,
+  "behaviour": "Referral-led",
+  "behaviour_how": "Asks friends and neighbours for a crew they have used and trust.",
+  "objection": "I don't know yet whether the platform's fee is worth it, since the price is not stated",
+  "habit": "your flat needs new floors, the kitchen and the bathroom redone"
+ },
+ {
+  "id": "P010",
+  "name": "Kenji",
+  "age": 37,
+  "segment": "Owner-occupier, higher income",
+  "income": 4913000,
+  "behaviour": "Burned before",
+  "behaviour_how": "Had a renovation go badly over money or deadlines and now plans around that.",
+  "objection": "Bids from different firms never describe the same work, so how do I compare them?",
+  "habit": "you have only ever hired builders through word of mouth"
+ },
+ {
+  "id": "P011",
+  "name": "Nico",
+  "age": 33,
+  "segment": "Landlord renovating a rental flat",
+  "income": 2174000,
+  "behaviour": "Price-first",
+  "behaviour_how": "Picks the cheapest bid unless something obvious rules it out.",
+  "objection": "I don't know yet whether the platform's fee is worth it, since the price is not stated",
+  "habit": "you are busy at work and cannot spend evenings chasing a crew"
+ },
+ {
+  "id": "P012",
+  "name": "Alma",
+  "age": 46,
+  "segment": "Landlord renovating a rental flat",
+  "income": 2938000,
+  "behaviour": "Referral-led",
+  "behaviour_how": "Asks friends and neighbours for a crew they have used and trust.",
+  "objection": "I would rather pay the crew directly and avoid the middleman",
+  "habit": "a friend's renovation ran over budget and dragged on for months"
+ },
+ {
+  "id": "P013",
+  "name": "Victor",
+  "age": 38,
+  "segment": "Owner-occupier, budget-aware",
+  "income": 2011000,
+  "behaviour": "Burned before",
+  "behaviour_how": "Had a renovation go badly over money or deadlines and now plans around that.",
+  "objection": "If the work goes wrong halfway, will the platform actually help me?",
+  "habit": "your flat needs new floors, the kitchen and the bathroom redone"
+ },
+ {
+  "id": "P014",
+  "name": "Darius",
+  "age": 51,
+  "segment": "Owner-occupier, budget-aware",
+  "income": 1520000,
+  "behaviour": "Burned before",
+  "behaviour_how": "Had a renovation go badly over money or deadlines and now plans around that.",
+  "objection": "I don't know yet whether the platform's fee is worth it, since the price is not stated",
+  "habit": "a friend's renovation ran over budget and dragged on for months"
+ },
+ {
+  "id": "P015",
+  "name": "Poppy",
+  "age": 58,
+  "segment": "Owner-occupier, budget-aware",
+  "income": 1968000,
+  "behaviour": "Reads reviews, slow to trust",
+  "behaviour_how": "Checks reviews and ratings before contacting anyone, and distrusts anything that looks like an ad.",
+  "objection": "I don't know yet whether the platform's fee is worth it, since the price is not stated",
+  "habit": "your flat needs new floors, the kitchen and the bathroom redone"
+ },
+ {
+  "id": "P016",
+  "name": "Priya",
+  "age": 56,
+  "segment": "Landlord renovating a rental flat",
+  "income": 3872000,
+  "behaviour": "Gets three quotes before choosing",
+  "behaviour_how": "Asks several crews for prices, then compares the numbers and little else.",
+  "objection": "I would rather pay the crew directly and avoid the middleman",
+  "habit": "you are busy at work and cannot spend evenings chasing a crew"
+ },
+ {
+  "id": "P017",
+  "name": "Andre",
+  "age": 35,
+  "segment": "Owner-occupier, higher income",
+  "income": 2482000,
+  "behaviour": "Gets three quotes before choosing",
+  "behaviour_how": "Asks several crews for prices, then compares the numbers and little else.",
+  "objection": "Why pay a platform on top of what the builder charges?",
+  "habit": "you have only ever hired builders through word of mouth"
+ },
+ {
+  "id": "P018",
+  "name": "Esme",
+  "age": 50,
+  "segment": "Owner-occupier, higher income",
+  "income": 3317000,
+  "behaviour": "Price-first",
+  "behaviour_how": "Picks the cheapest bid unless something obvious rules it out.",
+  "objection": "Bids from different firms never describe the same work, so how do I compare them?",
+  "habit": "a friend's renovation ran over budget and dragged on for months"
+ },
+ {
+  "id": "P019",
+  "name": "Owen",
+  "age": 56,
+  "segment": "Owner-occupier, higher income",
+  "income": 3212000,
+  "behaviour": "Gets three quotes before choosing",
+  "behaviour_how": "Asks several crews for prices, then compares the numbers and little else.",
+  "objection": "Who checks that the builder is any good?",
+  "habit": "a friend's renovation ran over budget and dragged on for months"
+ },
+ {
+  "id": "P020",
+  "name": "Ines",
+  "age": 44,
+  "segment": "Landlord renovating a rental flat",
+  "income": 3976000,
+  "behaviour": "Hands-off",
+  "behaviour_how": "Wants one person to manage the whole job so they do not have to chase the crew.",
+  "objection": "Who checks that the builder is any good?",
+  "habit": "your flat needs new floors, the kitchen and the bathroom redone"
+ }
+]

@@ -1,0 +1,35 @@
+{
+  "business": "Builder marketplace (working name not chosen): flat renovation first. ASSUMED TEST BUYER: a private owner of an apartment in a large Russian-speaking city who wants a flat renovation done. City, country and job type are not fixed in idea.md; this profile is an assumption, not customer data.",
+  "target": "Private apartment owner in a large Russian-speaking city, planning a flat renovation and not yet sure who to hire",
+  "where": "Large Russian-speaking city (not fixed; assumed)",
+  "age": [30, 60],
+  "currency": "RUB, annual household income (assumed ranges, not market data)",
+  "segments": [
+    {"name": "Owner-occupier, budget-aware", "share": 0.45, "income": [1200000, 2400000]},
+    {"name": "Owner-occupier, higher income", "share": 0.35, "income": [2400000, 5000000]},
+    {"name": "Landlord renovating a rental flat", "share": 0.20, "income": [1800000, 4000000]}
+  ],
+  "behaviours": [
+    {"name": "Gets three quotes before choosing", "share": 0.20, "how": "Asks several crews for prices, then compares the numbers and little else."},
+    {"name": "Price-first", "share": 0.15, "how": "Picks the cheapest bid unless something obvious rules it out."},
+    {"name": "Reads reviews, slow to trust", "share": 0.15, "how": "Checks reviews and ratings before contacting anyone, and distrusts anything that looks like an ad."},
+    {"name": "Referral-led", "share": 0.15, "how": "Asks friends and neighbours for a crew they have used and trust."},
+    {"name": "Hands-off", "share": 0.12, "how": "Wants one person to manage the whole job so they do not have to chase the crew."},
+    {"name": "Burned before", "share": 0.13, "how": "Had a renovation go badly over money or deadlines and now plans around that."},
+    {"name": "Already has a crew", "share": 0.10, "how": "Mostly has someone in mind and only wants the paperwork and payment handled."}
+  ],
+  "objections": [
+    "Why pay a platform on top of what the builder charges?",
+    "Who checks that the builder is any good?",
+    "Bids from different firms never describe the same work, so how do I compare them?",
+    "If the work goes wrong halfway, will the platform actually help me?",
+    "I would rather pay the crew directly and avoid the middleman",
+    "I don't know yet whether the platform's fee is worth it, since the price is not stated"
+  ],
+  "habits": [
+    "your flat needs new floors, the kitchen and the bathroom redone",
+    "a friend's renovation ran over budget and dragged on for months",
+    "you have only ever hired builders through word of mouth",
+    "you are busy at work and cannot spend evenings chasing a crew"
+  ]
+}

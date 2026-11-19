@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I have only ever hired builders through word of mouth, and I would rather pay the crew directly than give a middleman a cut. A platform I have never heard of, with no reviews I can read, asking me to hand it my money and the contract is a hard sell.",
+  "objection": "Who actually gets paid for the work, and what does the platform take on top of the builder's price? If I cannot see real reviews of the builders and of the platform itself, I will not sign anything.",
+  "would_change_my_mind": "A friend or neighbour who has used it for a flat renovation and vouches for it, plus a clear breakdown showing the platform fee is small and the builder's price is not inflated.",
+  "price_too_cheap": 30,
+  "price_cheap": 100,
+  "price_expensive": 300,
+  "price_too_expensive": 600
+}
