@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already have Xfix and Homico, and they cost me nothing to look at. I do not see what a new middleman adds, and a pilot that is not even open yet in Tbilisi is a lot to hand my whole refit to.",
+  "objection": "Who checks the crews, and what happens to my money if one of them walks off halfway through the job? The page leaves both of those blank.",
+  "would_change_my_mind": "A named verification process and a clear written promise that I get my money back, or the job finished by someone else, if a crew stops mid-job, plus proof that the crews are cheaper than the ones I can find myself.",
+  "price_too_cheap": 0,
+  "price_cheap": 0,
+  "price_expensive": 10,
+  "price_too_expensive": 25
+}

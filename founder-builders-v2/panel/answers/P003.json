@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I have a crew problem already, and this offer leaves the two things I care about blank: how the crews are checked, and what happens if one walks off mid-job. I can get three quotes myself in a week, so I would not hand the job to an unverified crew on a pilot that is not even open yet.",
+  "objection": "Who checks these crews, and who makes sure the flat gets finished if a crew stops halfway? Right now that is not written down anywhere I can see.",
+  "would_change_my_mind": "A written verification standard for the crews, a clear stop-mid-job plan, and a few past Tbilisi clients I can call who were happy with the work and the schedule.",
+  "price_too_cheap": 0,
+  "price_cheap": 0,
+  "price_expensive": 200,
+  "price_too_expensive": 400
+}

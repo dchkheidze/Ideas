@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already have a crew through friends and I can get three quotes myself in a week. The offer leaves the crew checks and the mid-job stop rule blank, so I would be paying a middleman to trust strangers I cannot yet check.",
+  "objection": "Who checks these crews, and what happens to my money and my half-finished flat if one walks off mid-job? Both lines are still blank.",
+  "would_change_my_mind": "A named verification process, a written rule for a crew that stops mid-job, and a past Tbilisi client I can phone.",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 150,
+  "price_too_expensive": 300
+}

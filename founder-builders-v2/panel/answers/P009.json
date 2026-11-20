@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already know how to hire a crew and pay them myself, and the one time I used a friend's crew it ran late, so I do not see what this service adds for me. The brief itself leaves the crew checks and what happens when a crew walks off mid-job blank, and those are the two things I would need to see before handing over my flat.",
+  "objection": "Who checks the crews, and what do I get back if one stops halfway through my flat? Right now the answer is a blank line, and I would still be paying the crew directly either way.",
+  "would_change_my_mind": "A written, specific verification process I can read before I sign, plus a clear rule for a crew that stops mid-job, such as a named replacement crew or a money-back step.",
+  "price_too_cheap": 0,
+  "price_cheap": 10,
+  "price_expensive": 40,
+  "price_too_expensive": 80
+}

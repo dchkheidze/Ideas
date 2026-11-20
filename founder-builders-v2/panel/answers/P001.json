@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "It is free for me, but it is a pilot that is not open yet, and I do not know who these crews are or who checked them. I can get three quotes myself in a week and see the crews' work on Facebook before I call anyone.",
+  "objection": "Who checks the crews, and what happens to my money and my flat if a crew walks off halfway? The brief leaves that blank, and that is exactly the part I would need to know.",
+  "would_change_my_mind": "A named verification process for the crews, a written rule for what happens if a crew stops, and a few finished flats in Tbilisi I can go and see.",
+  "price_too_cheap": 0,
+  "price_cheap": 0,
+  "price_expensive": 50,
+  "price_too_expensive": 100
+}
