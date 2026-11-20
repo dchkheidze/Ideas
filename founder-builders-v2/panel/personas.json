@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Mateo",
+  "age": 55,
+  "segment": "Owner-occupier, own flat",
+  "income": 1000,
+  "behaviour": "Gets three quotes",
+  "behaviour_how": "Compares several quotes and decides on price.",
+  "objection": "I can get three quotes myself in a week",
+  "habit": "you check a Facebook page before calling anyone"
+ },
+ {
+  "id": "P002",
+  "name": "Yusuf",
+  "age": 59,
+  "segment": "Landlord renovating a rental",
+  "income": 3000,
+  "behaviour": "Gets three quotes",
+  "behaviour_how": "Compares several quotes and decides on price.",
+  "objection": "I can get three quotes myself in a week",
+  "habit": "you read the reviews in Russian or Georgian"
+ },
+ {
+  "id": "P003",
+  "name": "Lucia",
+  "age": 41,
+  "segment": "Landlord renovating a rental",
+  "income": 4000,
+  "behaviour": "Hands-off",
+  "behaviour_how": "Wants one point of contact and does not want to chase crews.",
+  "objection": "I can get three quotes myself in a week",
+  "habit": "you have used a crew from a friend and it was late"
+ },
+ {
+  "id": "P004",
+  "name": "Malik",
+  "age": 57,
+  "segment": "Owner-occupier, own flat",
+  "income": 2000,
+  "behaviour": "Gets three quotes",
+  "behaviour_how": "Compares several quotes and decides on price.",
+  "objection": "Why not just pay the crew directly and skip the middleman?",
+  "habit": "you have a flat in Tbilisi that needs a full refit"
+ },
+ {
+  "id": "P005",
+  "name": "Min",
+  "age": 39,
+  "segment": "Landlord renovating a rental",
+  "income": 3000,
+  "behaviour": "Burned before",
+  "behaviour_how": "A past renovation ran over budget or stalled.",
+  "objection": "Can the crew run over budget and I have no recourse?",
+  "habit": "you have a flat in Tbilisi that needs a full refit"
+ },
+ {
+  "id": "P006",
+  "name": "Kira",
+  "age": 44,
+  "segment": "Owner-occupier, own flat",
+  "income": 2000,
+  "behaviour": "Reads reviews",
+  "behaviour_how": "Checks reviews and social pages before contacting anyone.",
+  "objection": "I can get three quotes myself in a week",
+  "habit": "you have used a crew from a friend and it was late"
+ },
+ {
+  "id": "P007",
+  "name": "Diego",
+  "age": 49,
+  "segment": "Landlord renovating a rental",
+  "income": 4000,
+  "behaviour": "Gets three quotes",
+  "behaviour_how": "Compares several quotes and decides on price.",
+  "objection": "Why not just pay the crew directly and skip the middleman?",
+  "habit": "you read the reviews in Russian or Georgian"
+ },
+ {
+  "id": "P008",
+  "name": "Sana",
+  "age": 46,
+  "segment": "Family upgrading a flat",
+  "income": 1000,
+  "behaviour": "Price-first",
+  "behaviour_how": "Picks the lowest credible bid.",
+  "objection": "Xfix and Homico are free and already here; why would I pay you?",
+  "habit": "you have a flat in Tbilisi that needs a full refit"
+ },
+ {
+  "id": "P009",
+  "name": "Mira",
+  "age": 36,
+  "segment": "Owner-occupier, own flat",
+  "income": 1000,
+  "behaviour": "Reads reviews",
+  "behaviour_how": "Checks reviews and social pages before contacting anyone.",
+  "objection": "Why not just pay the crew directly and skip the middleman?",
+  "habit": "you have used a crew from a friend and it was late"
+ },
+ {
+  "id": "P010",
+  "name": "Leah",
+  "age": 38,
+  "segment": "Family upgrading a flat",
+  "income": 2000,
+  "behaviour": "Has a crew in mind",
+  "behaviour_how": "Knows a crew through friends and only wants the paperwork handled.",
+  "objection": "I can get three quotes myself in a week",
+  "habit": "you read the reviews in Russian or Georgian"
+ },
+ {
+  "id": "P011",
+  "name": "Theo",
+  "age": 38,
+  "segment": "Family upgrading a flat",
+  "income": 2000,
+  "behaviour": "Price-first",
+  "behaviour_how": "Picks the lowest credible bid.",
+  "objection": "Why not just pay the crew directly and skip the middleman?",
+  "habit": "you have a flat in Tbilisi that needs a full refit"
+ },
+ {
+  "id": "P012",
+  "name": "Emil",
+  "age": 48,
+  "segment": "Owner-occupier, own flat",
+  "income": 2000,
+  "behaviour": "Has a crew in mind",
+  "behaviour_how": "Knows a crew through friends and only wants the paperwork handled.",
+  "objection": "Will the crew in Tbilisi actually bid on a standard brief?",
+  "habit": "you have used a crew from a friend and it was late"
+ },
+ {
+  "id": "P013",
+  "name": "Tess",
+  "age": 56,
+  "segment": "Landlord renovating a rental",
+  "income": 2000,
+  "behaviour": "Burned before",
+  "behaviour_how": "A past renovation ran over budget or stalled.",
+  "objection": "Can the crew run over budget and I have no recourse?",
+  "habit": "you check a Facebook page before calling anyone"
+ },
+ {
+  "id": "P014",
+  "name": "Victor",
+  "age": 47,
+  "segment": "Landlord renovating a rental",
+  "income": 2000,
+  "behaviour": "Burned before",
+  "behaviour_how": "A past renovation ran over budget or stalled.",
+  "objection": "Can the crew run over budget and I have no recourse?",
+  "habit": "you check a Facebook page before calling anyone"
+ },
+ {
+  "id": "P015",
+  "name": "Harper",
+  "age": 35,
+  "segment": "Owner-occupier, own flat",
+  "income": 1000,
+  "behaviour": "Reads reviews",
+  "behaviour_how": "Checks reviews and social pages before contacting anyone.",
+  "objection": "Will the crew in Tbilisi actually bid on a standard brief?",
+  "habit": "you have a flat in Tbilisi that needs a full refit"
+ },
+ {
+  "id": "P016",
+  "name": "Grace",
+  "age": 43,
+  "segment": "Owner-occupier, own flat",
+  "income": 2000,
+  "behaviour": "Has a crew in mind",
+  "behaviour_how": "Knows a crew through friends and only wants the paperwork handled.",
+  "objection": "Will the crew in Tbilisi actually bid on a standard brief?",
+  "habit": "you have a flat in Tbilisi that needs a full refit"
+ },
+ {
+  "id": "P017",
+  "name": "Pablo",
+  "age": 56,
+  "segment": "Owner-occupier, own flat",
+  "income": 2000,
+  "behaviour": "Has a crew in mind",
+  "behaviour_how": "Knows a crew through friends and only wants the paperwork handled.",
+  "objection": "Who checks that the crew is any good?",
+  "habit": "you check a Facebook page before calling anyone"
+ },
+ {
+  "id": "P018",
+  "name": "Isla",
+  "age": 58,
+  "segment": "Owner-occupier, own flat",
+  "income": 2000,
+  "behaviour": "Price-first",
+  "behaviour_how": "Picks the lowest credible bid.",
+  "objection": "Can the crew run over budget and I have no recourse?",
+  "habit": "you check a Facebook page before calling anyone"
+ },
+ {
+  "id": "P019",
+  "name": "Adrian",
+  "age": 32,
+  "segment": "Owner-occupier, own flat",
+  "income": 2000,
+  "behaviour": "Hands-off",
+  "behaviour_how": "Wants one point of contact and does not want to chase crews.",
+  "objection": "I can get three quotes myself in a week",
+  "habit": "you check a Facebook page before calling anyone"
+ },
+ {
+  "id": "P020",
+  "name": "Tariq",
+  "age": 39,
+  "segment": "Owner-occupier, own flat",
+  "income": 2000,
+  "behaviour": "Hands-off",
+  "behaviour_how": "Wants one point of contact and does not want to chase crews.",
+  "objection": "Can the crew run over budget and I have no recourse?",
+  "habit": "you read the reviews in Russian or Georgian"
+ }
+]

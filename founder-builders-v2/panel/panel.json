@@ -1,0 +1,86 @@
+{
+ "n": 20,
+ "seed": 705258,
+ "customer": {
+  "business": "Apartment renovation marketplace in Tbilisi (working name: not chosen)",
+  "target": "Private owners of a flat in Tbilisi who plan a full or large renovation, own-use or rental",
+  "where": "Tbilisi, Georgia (assumed; not confirmed)",
+  "age": [
+   30,
+   60
+  ],
+  "segments": [
+   {
+    "name": "Owner-occupier, own flat",
+    "share": 0.55,
+    "income": [
+     1200,
+     2500
+    ]
+   },
+   {
+    "name": "Landlord renovating a rental",
+    "share": 0.3,
+    "income": [
+     1500,
+     4000
+    ]
+   },
+   {
+    "name": "Family upgrading a flat",
+    "share": 0.15,
+    "income": [
+     1000,
+     2000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Has a crew in mind",
+    "share": 0.2,
+    "how": "Knows a crew through friends and only wants the paperwork handled."
+   },
+   {
+    "name": "Gets three quotes",
+    "share": 0.2,
+    "how": "Compares several quotes and decides on price."
+   },
+   {
+    "name": "Burned before",
+    "share": 0.15,
+    "how": "A past renovation ran over budget or stalled."
+   },
+   {
+    "name": "Reads reviews",
+    "share": 0.15,
+    "how": "Checks reviews and social pages before contacting anyone."
+   },
+   {
+    "name": "Hands-off",
+    "share": 0.15,
+    "how": "Wants one point of contact and does not want to chase crews."
+   },
+   {
+    "name": "Price-first",
+    "share": 0.15,
+    "how": "Picks the lowest credible bid."
+   }
+  ],
+  "objections": [
+   "Xfix and Homico are free and already here; why would I pay you?",
+   "Who checks that the crew is any good?",
+   "Why not just pay the crew directly and skip the middleman?",
+   "Can the crew run over budget and I have no recourse?",
+   "I can get three quotes myself in a week",
+   "Will the crew in Tbilisi actually bid on a standard brief?"
+  ],
+  "habits": [
+   "you have a flat in Tbilisi that needs a full refit",
+   "you have used a crew from a friend and it was late",
+   "you check a Facebook page before calling anyone",
+   "you read the reviews in Russian or Georgian"
+  ]
+ },
+ "pitch": "# Renovate your Tbilisi flat on one written scope\n\nPost one standard brief for your whole flat. Verified crews bid on the same brief, so you compare like with like. We help you choose a crew and set up a written contract with a stage schedule. You pay the crew directly, stage by stage, after you sign each stage off.\n\n- The job: your flat, described once in a standard brief.\n- The crews: listed after we check them against [verification process, to be defined].\n- The contract: one written contract with a stage schedule and sign-off steps.\n- The fee for you: none. Crews pay a fee to us for won contracts.\n- Your money: paid to the crew directly per stage, after your sign-off.\n- If a crew stops mid-job: [what we do, to be defined].\n\nPrice for you: free. Launch city and availability: Tbilisi, pilot, not yet open."
+}
