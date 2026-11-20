@@ -1,0 +1,120 @@
+{
+ "business": "Apartment renovation marketplace in Tbilisi (working name: not chosen)",
+ "seed": 705258,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 0,
+ "passes": 20,
+ "buy_rate": 0.0,
+ "by_segment": [
+  [
+   "Owner-occupier, own flat",
+   11,
+   0.0
+  ],
+  [
+   "Landlord renovating a rental",
+   6,
+   0.0
+  ],
+  [
+   "Family upgrading a flat",
+   3,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Gets three quotes",
+   4,
+   0.0
+  ],
+  [
+   "Hands-off",
+   3,
+   0.0
+  ],
+  [
+   "Burned before",
+   3,
+   0.0
+  ],
+  [
+   "Reads reviews",
+   3,
+   0.0
+  ],
+  [
+   "Price-first",
+   3,
+   0.0
+  ],
+  [
+   "Has a crew in mind",
+   4,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "under $2,000",
+   4,
+   0.0
+  ],
+  [
+   "$2,000 and up",
+   16,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   19,
+   [
+    "It is free for me, but it is a pilot that is not open yet, and I do not know who these crews are or who checked them. I can get three quotes myself in a week and see the crews' work on Facebook before I call anyone.",
+    "I can get three quotes myself in a week, and I read the reviews in Russian and Georgian anyway. I do not know who checks these crews or what counts as verified, and nothing here says what happens if a crew walks off halfway through my flat."
+   ],
+   [
+    "P001",
+    "P002"
+   ]
+  ],
+  [
+   "need",
+   1,
+   [
+    "I can pay a crew directly without a middleman, and the page does not say what the middleman does that I cannot do myself. Free is nice, but I still do not see why I would add a party between me and the crew."
+   ],
+   [
+    "P011"
+   ]
+  ]
+ ],
+ "why_yes": [],
+ "flip": [
+  "A named verification process for the crews, a written rule for what happens if a crew stops, and a few finished flats in Tbilisi I can go and see.",
+  "A written verification standard I can read, and a written promise of what happens if a crew stops mid-job, before I post a brief.",
+  "A written verification standard for the crews, a clear stop-mid-job plan, and a few past Tbilisi clients I can call who were happy with the work and the schedule.",
+  "A named verification process for the crews and a written promise on what happens if a crew stops mid-job, with my money protected.",
+  "A written rule for a crew that stops mid-job, with the money held back until it is finished, and the crew checks spelled out before I see any names.",
+  "A published verification process for the crews, a clear stop-mid-job guarantee, and reviews from real Tbilisi owners who used the service and finished on time.",
+  "A written verification process for the crews and a clear answer on what happens if a crew stops mid-job, shown to me before I post my brief.",
+  "A named verification process and a clear written promise that I get my money back, or the job finished by someone else, if a crew stops mid-job, plus proof that the crews are cheaper than the ones I can find myself.",
+  "A written, specific verification process I can read before I sign, plus a clear rule for a crew that stops mid-job, such as a named replacement crew or a money-back step.",
+  "A named verification process, a written rule for a crew that stops mid-job, and a past Tbilisi client I can phone.",
+  "A written, visible verification process for the crews, plus a clear promise that if a crew stops mid-job I get my money back or a replacement crew at no extra cost.",
+  "A named verification process I can read, a clear written plan for when a crew stops mid-job, and proof that real crews have bid on a brief and finished work.",
+  "A written answer, before I sign, to what happens to my money and my flat if a crew stops mid-job, plus a verification process I can read and check myself, not just the word verified.",
+  "A written, stated remedy for a crew that stops mid-job, plus proof the crews were checked (named crews with past finished jobs I can call about).",
+  "Published reviews of real Tbilisi crews who have finished jobs through this, plus a clear written rule for what happens to my money and my flat if a crew stops mid-job.",
+  "A named list of verified Tbilisi crews, a clear written plan for what happens if a crew stops mid-job, and proof that my own friend's crew could bid through it.",
+  "A clear, written description of how crews are checked, with real past jobs I can look up on Facebook, and a plain promise of what happens if the crew walks off mid-job.",
+  "A written rule for what I get back if a crew stops mid-job, plus a crew check I can look up myself before I sign anything.",
+  "A published verification process for the crews, a written rule for what happens if a crew stops, and a Facebook page with reviews from finished Tbilisi jobs.",
+  "A written answer to what happens if the crew stops mid-job, including who finishes the work and how my stage payments are protected, plus a named Tbilisi crew I can check myself."
+ ],
+ "purchases_first_month_per_buyer": null,
+ "price_answers": 20
+}
