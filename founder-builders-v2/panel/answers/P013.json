@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I have been burned by a renovation that ran over and stalled, and this says the verification and the what-if-the-crew-stops parts are still 'to be defined'. I am not putting my flat's money behind a page that is not open yet and cannot tell me what happens if a crew walks off.",
+  "objection": "Can the crew run over budget and I have no recourse?",
+  "would_change_my_mind": "A written answer, before I sign, to what happens to my money and my flat if a crew stops mid-job, plus a verification process I can read and check myself, not just the word verified.",
+  "price_too_cheap": 0,
+  "price_cheap": 0,
+  "price_expensive": 50,
+  "price_too_expensive": 100
+}

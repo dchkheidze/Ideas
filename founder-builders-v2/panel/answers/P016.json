@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already have a crew through friends and mostly need the paperwork done, and this is a pilot that is not open yet, with no verification process or fallback if a crew walks off mid-job. I would not hand a whole refit to a platform I cannot check.",
+  "objection": "Will the crew in Tbilisi actually bid on a standard brief, and if one stops halfway, who finishes the flat and who pays for the mess?",
+  "would_change_my_mind": "A named list of verified Tbilisi crews, a clear written plan for what happens if a crew stops mid-job, and proof that my own friend's crew could bid through it.",
+  "price_too_cheap": 0,
+  "price_cheap": 0,
+  "price_expensive": 50,
+  "price_too_expensive": 100
+}

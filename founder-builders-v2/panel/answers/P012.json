@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "It is free for me, and a written contract with stage sign-offs is exactly what I lacked last time, but I have no idea who checks these crews or what happens if one walks off mid-job, and those are the two things that cost me before. I would not hand my flat to an offer that leaves both blank.",
+  "objection": "Will the crew in Tbilisi actually bid on a standard brief? And who vouches for them when the verification process is still undefined?",
+  "would_change_my_mind": "A named verification process I can read, a clear written plan for when a crew stops mid-job, and proof that real crews have bid on a brief and finished work.",
+  "price_too_cheap": 0,
+  "price_cheap": 0,
+  "price_expensive": 50,
+  "price_too_expensive": 100
+}

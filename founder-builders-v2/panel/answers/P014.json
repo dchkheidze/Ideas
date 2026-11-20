@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "The pay-by-stage and one written contract are what I'd want after my last job. But the two things that matter most, what happens when a crew stalls and how you check the crews, are still blank, and I won't sign on blanks.",
+  "objection": "If the crew runs over budget or walks off mid-job, what do I actually get back, and who answers for it?",
+  "would_change_my_mind": "A written, stated remedy for a crew that stops mid-job, plus proof the crews were checked (named crews with past finished jobs I can call about).",
+  "price_too_cheap": 0,
+  "price_cheap": 0,
+  "price_expensive": 40,
+  "price_too_expensive": 80
+}
