@@ -44,14 +44,24 @@ class NumbersError(Exception):
     pass
 
 
-def _money(v):
+CURRENCY = "$"    # set from numbers.json by analyse(); "$", "€", "£" go in front, anything else after
+PERIOD = "a day"  # set from numbers.json by analyse(); the word for how often the volume is counted
+
+
+def _fmt_money(v, decimals):
     sign = "-" if v < 0 else ""
-    return "%s$%s" % (sign, "{:,.2f}".format(abs(v)))
+    body = ("{:,.%df}" % decimals).format(abs(v))
+    if CURRENCY in ("$", "€", "£"):
+        return "%s%s%s" % (sign, CURRENCY, body)
+    return "%s%s %s" % (sign, body, CURRENCY)
+
+
+def _money(v):
+    return _fmt_money(v, 2)
 
 
 def _whole(v):
-    sign = "-" if v < 0 else ""
-    return "%s$%s" % (sign, "{:,.0f}".format(abs(round(v))))
+    return _fmt_money(round(v), 0)
 
 
 def _sum(items, field):
@@ -77,6 +87,9 @@ def load(path):
 
 
 def analyse(spec, price=None, volume=1.0):
+    global CURRENCY, PERIOD
+    CURRENCY = spec.get("currency", "$")
+    PERIOD = spec.get("period", "a day")
     """Return a dict of every number in the report. Pure function, easy to test."""
     if "price" not in spec and price is None:
         raise NumbersError("'price' is missing")
@@ -132,9 +145,9 @@ def analyse(spec, price=None, volume=1.0):
     if contribution <= 0:
         flags.append("Each unit loses money before rent and salaries: the price is below the variable cost.")
     if capacity is not None and breakeven_day > float(capacity):
-        flags.append("Break-even needs %.0f %ss a day but capacity is %s." % (breakeven_day, spec.get("unit", "unit"), capacity))
+        flags.append("Break-even needs %.0f %ss %s but capacity is %s." % (breakeven_day, spec.get("unit", "unit"), PERIOD, capacity))
     if capacity is not None and plan > float(capacity):
-        flags.append("The plan (%.0f a day) is above capacity (%s)." % (plan, capacity))
+        flags.append("The plan (%.0f %s) is above capacity (%s)." % (plan, PERIOD, capacity))
     if year_profit < 0:
         flags.append("Year 1 loses money on operations (%s)." % _whole(year_profit))
     if payback_month is None:
@@ -142,6 +155,7 @@ def analyse(spec, price=None, volume=1.0):
 
     return {
         "business": spec.get("business", ""), "unit": spec.get("unit", "unit"),
+        "currency": CURRENCY, "period": PERIOD,
         "price": p, "variable_per_unit": var, "contribution": contribution,
         "contribution_pct": contribution_pct, "fixed_monthly": fixed, "startup": startup,
         "plan_per_day": plan, "margin_at_plan": margin_at_plan, "breakeven_per_day": breakeven_day,
@@ -189,16 +203,16 @@ def report(spec, a):
         "%s %s" % (it.get("label", "cost"), _whole(float(it["cost"]))) for it in a["fixed_items"]) or "none given"))
     L.append("")
     be = a["breakeven_per_day"]
-    L.append("- **Break-even: %s %ss a day.** Below that you lose money every month." % (
-        "never (each unit loses money)" if math.isinf(be) else "{:,.0f}".format(math.ceil(be)), u))
-    L.append("- **Profit margin at your plan** (%s a day): **%.0f%%** of every sale, after every cost." % (
-        "{:,.0f}".format(a["plan_per_day"]), a["margin_at_plan"] * 100))
+    L.append("- **Break-even: %s %ss %s.** Below that you lose money every month." % (
+        "never (each unit loses money)" if math.isinf(be) else "{:,.0f}".format(math.ceil(be)), u, PERIOD))
+    L.append("- **Profit margin at your plan** (%s %s): **%.0f%%** of every sale, after every cost." % (
+        "{:,.0f}".format(a["plan_per_day"]), PERIOD, a["margin_at_plan"] * 100))
     if a["capacity_per_day"] is not None:
-        L.append("- Capacity: %s a day." % a["capacity_per_day"])
+        L.append("- Capacity: %s %s." % (a["capacity_per_day"], PERIOD))
     L.append("")
     L.append("## Year 1, month by month")
     L.append("")
-    L.append("| month | %ss a day | revenue | profit | cumulative (after %s startup) |" % (u, _whole(a["startup"])))
+    L.append("| month | %ss (%s) | revenue | profit | cumulative (after %s startup) |" % (u, PERIOD, _whole(a["startup"])))
     L.append("| ---: | ---: | ---: | ---: | ---: |")
     for m in a["months"]:
         L.append("| %d | %s | %s | %s | %s |" % (m["month"], "{:,.0f}".format(m["per_day"]), _whole(m["revenue"]),
@@ -211,7 +225,7 @@ def report(spec, a):
     L.append("")
     L.append("## What if")
     L.append("")
-    L.append("| scenario | margin at plan | break-even a day | year 1 profit |")
+    L.append("| scenario | margin at plan | break-even %s | year 1 profit |" % PERIOD)
     L.append("| --- | ---: | ---: | ---: |")
     for name, s in sensitivity(spec):
         be = s["breakeven_per_day"]

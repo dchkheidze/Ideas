@@ -51,6 +51,16 @@ def _load_unit_economics():
     return mod
 
 
+def _cur(numbers, v, dec=0):
+    """Format a money amount in the business's own currency (numbers.json "currency")."""
+    cur = numbers.get("currency", "$")
+    body = ("{:,.%df}" % dec).format(abs(v))
+    sign = "-" if v < 0 else ""
+    if cur in ("$", "€", "£"):
+        return "%s%s%s" % (sign, cur, body)
+    return "%s%s %s" % (sign, body, cur)
+
+
 def _read(path):
     try:
         with open(path, encoding="utf-8") as fh:
@@ -77,16 +87,16 @@ def verdict(d, min_buy_rate=0.25):
         numbers = ue.analyse(json.loads(raw))
         u = numbers["unit"]
         c = numbers["contribution"]
-        checks.append((c > 0, "Each %s earns $%.2f before fixed costs (%.0f%% contribution)." % (u, c, numbers["contribution_pct"] * 100)
-                       if c > 0 else "Each %s LOSES $%.2f before fixed costs." % (u, -c)))
+        checks.append((c > 0, "Each %s earns %s before fixed costs (%.0f%% contribution)." % (u, _cur(numbers, c, 2), numbers["contribution_pct"] * 100)
+                       if c > 0 else "Each %s LOSES %s before fixed costs." % (u, _cur(numbers, -c, 2))))
         y = numbers["year1_profit"]
-        checks.append((y > 0, "Year 1 operating profit: $%s." % "{:,.0f}".format(y) if y > 0
-                       else "Year 1 operating LOSS: $%s." % "{:,.0f}".format(-y)))
+        checks.append((y > 0, "Year 1 operating profit: %s." % _cur(numbers, y) if y > 0
+                       else "Year 1 operating LOSS: %s." % _cur(numbers, -y)))
         be, cap = numbers["breakeven_per_day"], numbers["capacity_per_day"]
         if cap is not None:
             fits = not math.isinf(be) and be <= float(cap)
-            checks.append((fits, "Break-even is %s %ss a day against a capacity of %s." % (
-                "never reached" if math.isinf(be) else "{:,.0f}".format(math.ceil(be)), u, cap)))
+            checks.append((fits, "Break-even is %s %ss %s against a capacity of %s." % (
+                "never reached" if math.isinf(be) else "{:,.0f}".format(math.ceil(be)), u, numbers["period"], cap)))
     raw = _read(os.path.join(d, "panel", "results.json"))
     if raw:
         panel = json.loads(raw)
@@ -121,12 +131,12 @@ def compile_plan(d, min_buy_rate=0.25):
     if numbers:
         be = numbers["breakeven_per_day"]
         L += ["| key number | |", "| --- | ---: |",
-              "| Price | $%.2f a %s |" % (numbers["price"], numbers["unit"]),
+              "| Price | %s a %s |" % (_cur(numbers, numbers["price"], 2), numbers["unit"]),
               "| Profit margin at plan | %.0f%% per %s |" % (numbers["margin_at_plan"] * 100, numbers["unit"]),
-              "| Break-even | %s %ss a day |" % ("never" if math.isinf(be) else "{:,.0f}".format(math.ceil(be)), numbers["unit"]),
-              "| Year 1 operating profit | $%s |" % "{:,.0f}".format(numbers["year1_profit"]),
-              "| Startup spend | $%s |" % "{:,.0f}".format(numbers["startup"]),
-              "| Cash needed before it pays for itself | $%s |" % "{:,.0f}".format(numbers["cash_needed"]),
+              "| Break-even | %s %ss %s |" % ("never" if math.isinf(be) else "{:,.0f}".format(math.ceil(be)), numbers["unit"], numbers["period"]),
+              "| Year 1 operating profit | %s |" % _cur(numbers, numbers["year1_profit"]),
+              "| Startup spend | %s |" % _cur(numbers, numbers["startup"]),
+              "| Cash needed before it pays for itself | %s |" % _cur(numbers, numbers["cash_needed"]),
               "| Startup money earned back | %s |" % ("month %d" % numbers["payback_month"] if numbers["payback_month"] else "not in year 1")]
         if panel:
             L.append("| Buyer panel | %d buy · %d pass |" % (panel["buys"], panel["passes"]))
